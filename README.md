@@ -106,7 +106,7 @@
 
 <div align="center">
   <br/>
-  <img src="<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=goprocker&theme=dark&hide_border=true&short_numbers=true&mode=weekly" alt="GitHub Streak" /></a>" />
+  <img src="<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=goprocker&theme=dark&hide_border=true&short_numbers=true" alt="GitHub Streak" /></a>" />
 </div>
 
 ---
