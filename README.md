@@ -1,5 +1,11 @@
 <img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="goprocker's GitHub profile" src="dark_mode.svg" />
+</picture>
+
 # 💫 About Me:
 **🔭 I'm currently working on**<br>[LoopFound](https://loopfound.in) — a web dev agency shipping real client sites for real businesses.<br><br>**👯 I'm looking to collaborate on**<br>AI-powered web apps, full-stack projects, and anything that solves real problems for real people — especially in the Indian context.<br><br>**🤝 I'm looking for help with**<br>Scaling LoopFound and improving P2PSkill — a peer-to-peer skill exchange platform I built with my WiCyS club team.<br><br>**🌱 I'm currently learning**<br>Advanced AI/ML, DSA, and how to build products that actually ship — not just prototypes.<br><br>**💬 Ask me about**<br>React, Node.js, MongoDB, Claude API, building as a student founder, or why Chennai is an underrated tech city.<br><br>**⚡ Fun fact**<br>I'm 18, in my first year of CSE, and I've already deployed 2+ client websites, built a QR attendance app serving 1,000+ users, and co-founded a web agency — all before my second semester ended.<br>
 
