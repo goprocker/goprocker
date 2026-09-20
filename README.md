@@ -239,16 +239,17 @@ Flagship platforms and systems demonstrating full-stack engineering, client exec
   <br/>
 
   ### 🏆 GitHub Trophies
-  <img src="https://github-profile-trophy.vercel.app/?username=goprocker&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
+  <img src="https://github-profile-trophy-alpha.vercel.app/?username=goprocker&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
 
   <br/>
 
-  ### 🔝 Top Contributions & Dev Quote
-  <img src="https://github-contributor-stats.vercel.app/api?username=goprocker&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
+  ### 🔝 Featured Repository
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=goprocker&repo=goprocker&theme=tokyonight&hide_border=true" alt="Featured Repository" />
 
   <br/>
 
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+  ### ✍️ Random Dev Quote
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 
 </div>
 
