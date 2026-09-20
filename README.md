@@ -290,9 +290,7 @@ LEARNING ───────────────────────�
 
 <br/><br/>
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=goprocker&icon=0&color=0" />
-</a>
+<img src="https://komarev.com/ghpvc/?username=goprocker&color=70a5fd&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
 
