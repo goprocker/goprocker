@@ -26,9 +26,9 @@
 
 ### `POSITIONING`
 
-> **Computer Science & AI student, agency co-founder, and full-stack software developer.**
+> **Computer Science & AI Engineering student, web agency co-founder, and full-stack software developer.**
 > 
-> *"I build products that actually ship and solve real-world problems for real people — focusing on speed, clean architecture, and practical execution."*
+> *"I build systems that ship to production and solve real-world problems for real people — focusing on speed, clean architecture, and user adoption."*
 
 ---
 
@@ -44,12 +44,12 @@
 - **Role:** CSE Student (AI Specialization) &amp; Student Founder
 - **Agency:** Co-Founder at [LoopFound](https://loopfound.in)
 - **Location:** Chennai, India
-- **Stage:** 18-year-old student founder shipping client web apps and production software.
+- **Stage:** 18-year-old student founder shipping client web platforms and production tools.
 
 ```text
 OPERATING VECTOR
 ────────────────
-Agency Systems        · Web dev, client UX & deployments
+Agency Systems        · Web development, client UX & deployments
 Full-Stack Web        · React, Next.js, Node.js & MongoDB
 AI Engineering        · Machine Learning & Claude/Gemini APIs
 Product Engineering   · Shipping real apps for 1,000+ users
@@ -88,7 +88,7 @@ Flagship platforms and systems demonstrating full-stack engineering, client exec
 
 **A modern web development agency delivering high-performance digital products for real businesses.**
 
-> Co-founded to bridge the gap between business goals and modern web tech. LoopFound builds scalable, fast, and responsive web platforms tailored for real client needs.
+> Co-founded to bridge the gap between business goals and modern web engineering. LoopFound builds scalable, fast, and responsive web platforms tailored for real client needs.
 
 <p align="center">
   <a href="https://loopfound.in" target="_blank">
