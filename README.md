@@ -260,10 +260,6 @@ LEARNING ───────────────────────�
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=goprocker&theme=tokyonight" width="100%" />
-
-<br/>
-
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=goprocker&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" />
 &nbsp;&nbsp;
 <img src="https://streak-stats.demolab.com/?user=goprocker&theme=tokyonight&hide_border=true" height="170" />
