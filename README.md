@@ -1,113 +1,284 @@
 <img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
 
+<div align="center">
+
+<br/>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-  <img alt="goprocker's GitHub profile" src="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="dark_mode.svg" />
+  <img alt="goprocker's GitHub profile" src="dark_mode.svg" width="100%" />
 </picture>
 
-# 💫 About Me
+<br/><br/>
 
-**🔭 I'm currently working on**
-[LoopFound](https://loopfound.in) — a web dev agency shipping real client sites for real businesses.
+<p align="center">
+  <a href="#01--current-state"><code>// STATE</code></a> &nbsp;·&nbsp;
+  <a href="#02--selected-work"><code>// SELECTED WORK</code></a> &nbsp;·&nbsp;
+  <a href="#03--engineering-loadout"><code>// LOADOUT</code></a> &nbsp;·&nbsp;
+  <a href="#04--system-telemetry"><code>// TELEMETRY</code></a> &nbsp;·&nbsp;
+  <a href="#05--contact"><code>// CONTACT</code></a>
+</p>
 
-**👯 I'm looking to collaborate on**
-AI-powered web apps, full-stack projects, and anything that solves real problems for real people — especially in the Indian context.
-
-**🤝 I'm looking for help with**
-Scaling LoopFound and improving P2PSkill — a peer-to-peer skill exchange platform I built with my WiCyS club team.
-
-**🌱 I'm currently learning**
-Advanced AI/ML, DSA, and how to build products that actually ship — not just prototypes.
-
-**💬 Ask me about**
-React, Node.js, MongoDB, the Claude API, building as a student founder, or why Chennai is an underrated tech city.
-
-**⚡ Fun fact**
-I'm 18, in my second year of CSE (AI specialization), and I've already deployed 2+ client websites, built a QR attendance app serving 1,000+ users, and co-founded a web agency — all before my second semester ended.
-
-## 🌐 Socials
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/goprocker_photography_/?hl=en)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gopinath2638)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/gopinath2368)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gopinath2638@gmail.com)
-
-# 💻 Tech Stack
-
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF)
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
-![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white)
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
-
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=goprocker&theme=default_repocard&hide_border=true&include_all_commits=true&count_private=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=goprocker&theme=default_repocard&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=goprocker&theme=default_repocard&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=goprocker&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=goprocker&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=goprocker&icon=0&color=0)](https://visitcount.itsvg.in)
+### `POSITIONING`
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+> **Computer Science & AI student, agency co-founder, and full-stack software developer.**
+> 
+> *"I build products that actually ship and solve real-world problems for real people — focusing on speed, clean architecture, and practical execution."*
+
+---
+
+## `01 // CURRENT STATE`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📍 Profile Context
+
+- **Name:** Gopinath (goprocker)
+- **Role:** CSE Student (AI Specialization) &amp; Student Founder
+- **Agency:** Co-Founder at [LoopFound](https://loopfound.in)
+- **Location:** Chennai, India
+- **Stage:** 18-year-old student founder shipping client web apps and production software.
+
+```text
+OPERATING VECTOR
+────────────────
+Agency Systems        · Web dev, client UX & deployments
+Full-Stack Web        · React, Next.js, Node.js & MongoDB
+AI Engineering        · Machine Learning & Claude/Gemini APIs
+Product Engineering   · Shipping real apps for 1,000+ users
+```
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ Active Focus Matrix
+
+```text
+BUILDING (In Active Production)
+├── LoopFound Agency  [Shipping real client web applications]
+├── P2PSkill Platform [Peer-to-peer skill exchange system]
+└── QR Attendance App [Attendance engine serving 1,000+ users]
+
+LEARNING (Deepening Engineering Core)
+├── Advanced AI / ML  [Neural networks, Computer Vision & LLMs]
+├── System Architecture[Scalable backends, caching & DB design]
+└── Core Fundamentals [Data Structures & Algorithms in C++/Python]
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## `02 // SELECTED WORK`
+
+Flagship platforms and systems demonstrating full-stack engineering, client execution, and real user adoption.
+
+---
+
+### `01. LOOPFOUND` · `ONLINE`
+
+**A modern web development agency delivering high-performance digital products for real businesses.**
+
+> Co-founded to bridge the gap between business goals and modern web tech. LoopFound builds scalable, fast, and responsive web platforms tailored for real client needs.
+
+<p align="center">
+  <a href="https://loopfound.in" target="_blank">
+    <img src="https://img.shields.io/badge/visit_website-LoopFound.in-0070f3?style=flat-square&logo=vercel&logoColor=white" alt="LoopFound Website">
+  </a>
+</p>
+
+**`STACK:`** `React` · `Next.js` · `TypeScript` · `TailwindCSS` · `Node.js` · `Vercel` · `Cloudflare`
+
+<details>
+<summary><kbd>▶</kbd> <strong>Deep Technical Notes & Agency Execution</strong></summary>
+<br/>
+
+- **Performance-First Delivery:** Engineered client architectures prioritizing Core Web Vitals (LCP, CLS) through SSR and static rendering optimizations.
+- **Client Deployment Pipeline:** Streamlined deployment workflows leveraging Vercel and Netlify for fast iteration and automated CI/CD.
+- **Business Integration:** Built modular UI components allowing quick client customizations while keeping codebases maintainable.
+
+</details>
+
+---
+
+### `02. P2PSKILL` · `ONLINE`
+
+**A peer-to-peer skill exchange platform designed to enable collaborative learning.**
+
+> Built in collaboration with my WiCyS club team, P2PSkill allows users to trade knowledge, showcase skillsets, and find learning partners seamlessly without monetary barriers.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/status-active_development-38bdf8?style=flat-square&logo=github&logoColor=white" alt="P2PSkill Repo">
+</p>
+
+**`STACK:`** `React` · `Node.js` · `Express` · `MongoDB` · `TailwindCSS` · `Firebase Auth`
+
+<details>
+<summary><kbd>▶</kbd> <strong>Deep Technical Notes & Platform Design</strong></summary>
+<br/>
+
+- **User Matching Engine:** Implemented skill-indexing logic to pair users based on requested vs. offered competencies.
+- **Real-Time Communication:** Structured modular API endpoints for messaging, request tracking, and session scheduling.
+- **Authentication & Security:** Integrated secure OAuth and session management for peer verification.
+
+</details>
+
+---
+
+### `03. QR ATTENDANCE SYSTEM` · `DEPLOYED`
+
+**A high-concurrency QR code attendance application serving over 1,000 active users.**
+
+> Designed to streamline event and classroom check-ins, eliminating manual attendance taking through instant QR scanning, real-time validation, and database synchronization.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/impact-1000%2B_active_users-22c55e?style=flat-square&logo=active&logoColor=white" alt="QR Attendance Impact">
+</p>
+
+**`STACK:`** `JavaScript` · `Node.js` · `MongoDB` · `HTML5/CSS3` · `QR Engine`
+
+<details>
+<summary><kbd>▶</kbd> <strong>Deep Technical Notes & Scalability</strong></summary>
+<br/>
+
+- **Fast Verification:** Optimized payload payloads and token validation to achieve sub-second check-in scans.
+- **Duplicate Prevention:** Implemented atomic database transactions and anti-replay scanning tokens to ensure data integrity during peak usage.
+- **User Scale:** Successfully handled continuous concurrent scans from 1,000+ users during live campus events.
+
+</details>
+
+---
+
+## `03 // ENGINEERING LOADOUT`
+
+### 💻 `LANGUAGES`
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat-square&logo=powershell&logoColor=white)
+
+### 🌐 `WEB & FRAMEWORKS`
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D)
+![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=AEDDFF)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+
+### ⚙️ `BACKEND & DATABASES`
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase)
+
+### 🤖 `AI & DATA SCIENCE`
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=flat-square&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat-square&logo=streamlit&logoColor=white)
+
+### 🛠️ `DEVOPS & INFRASTRUCTURE`
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7)
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat-square&logo=render&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white)
+
+### 🎨 `DESIGN & CREATIVE MEDIA`
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-black?style=flat-square&logo=framer&logoColor=blue)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-%23FF9A00.svg?style=flat-square&logo=adobe%20illustrator&logoColor=white)
+![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF.svg?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=white)
+![After Effects](https://img.shields.io/badge/After_Effects-9999FF.svg?style=flat-square&logo=Adobe%20After%20Effects&logoColor=white)
+![Lightroom](https://img.shields.io/badge/Lightroom-31A8FF.svg?style=flat-square&logo=Adobe%20Lightroom&logoColor=white)
+
+---
+
+## `04 // SYSTEM TELEMETRY`
+
+<div align="center">
+
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=goprocker&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="goprocker Stats" height="165" />
+      </td>
+      <td>
+        <img src="https://nirzak-streak-stats.vercel.app/?user=goprocker&theme=tokyonight&hide_border=true" alt="goprocker Streak" height="165" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goprocker&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="165" />
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  ### 🏆 GitHub Trophies
+  <img src="https://github-profile-trophy.vercel.app/?username=goprocker&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
+
+  <br/>
+
+  ### 🔝 Top Contributions & Dev Quote
+  <img src="https://github-contributor-stats.vercel.app/api?username=goprocker&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
+
+  <br/>
+
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+
+</div>
+
+---
+
+## `05 // CONTACT`
+
+<div align="center">
+
+  <a href="https://linkedin.com/in/gopinath2638" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/gopinath2368" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="https://www.instagram.com/goprocker_photography_/?hl=en" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:gopinath2638@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+
+  <br/><br/>
+
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=goprocker&icon=0&color=0" alt="Visitor Count" />
+  </a>
+
+  <br/><br/>
+  
+  <code>// "Building the future, one line of code at a time."</code>
+
+</div>
