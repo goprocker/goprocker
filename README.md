@@ -223,15 +223,15 @@ Flagship platforms and systems demonstrating full-stack engineering, client exec
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=goprocker&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="goprocker Stats" height="165" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=goprocker&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="goprocker Stats" height="165" />
       </td>
       <td>
-        <img src="https://nirzak-streak-stats.vercel.app/?user=goprocker&theme=tokyonight&hide_border=true" alt="goprocker Streak" height="165" />
+        <img src="https://streak-stats.demolab.com/?user=goprocker&theme=tokyonight&hide_border=true" alt="goprocker Streak" height="165" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goprocker&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="165" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=goprocker&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="165" />
       </td>
     </tr>
   </table>
