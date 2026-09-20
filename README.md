@@ -278,10 +278,6 @@ LEARNING ───────────────────────�
 
 <br/><br/>
 
-<img src="https://github-profile-trophy-alpha.vercel.app/?username=goprocker&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
-
-<br/><br/>
-
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=goprocker&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="55%" />
 
 </div>
