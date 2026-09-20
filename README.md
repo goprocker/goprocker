@@ -220,36 +220,45 @@ Flagship platforms and systems demonstrating full-stack engineering, client exec
 
 <div align="center">
 
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=goprocker&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="goprocker Stats" height="165" />
-      </td>
-      <td>
-        <img src="https://streak-stats.demolab.com/?user=goprocker&theme=tokyonight&hide_border=true" alt="goprocker Streak" height="165" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=goprocker&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="165" />
-      </td>
-    </tr>
-  </table>
+### `📈 COMMIT & STREAK ANALYTICS`
 
-  <br/>
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=goprocker&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="goprocker Stats" height="175" />
+  &nbsp;&nbsp;
+  <img src="https://streak-stats.demolab.com/?user=goprocker&theme=tokyonight&hide_border=true" alt="goprocker Streak" height="175" />
+</p>
 
-  ### 🏆 GitHub Trophies
-  <img src="https://github-profile-trophy-alpha.vercel.app/?username=goprocker&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
+<br/>
 
-  <br/>
+### `🔠 LANGUAGE DISTRIBUTION`
 
-  ### 🔝 Featured Repository
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=goprocker&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="60%" />
+</p>
+
+<br/>
+
+### `🏆 EARNED TROPHIES`
+
+<p align="center">
+  <img src="https://github-profile-trophy-alpha.vercel.app/?username=goprocker&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</p>
+
+<br/>
+
+### `📌 FEATURED REPOSITORY`
+
+<p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=goprocker&repo=goprocker&theme=tokyonight&hide_border=true" alt="Featured Repository" />
+</p>
 
-  <br/>
+<br/>
 
-  ### ✍️ Random Dev Quote
+### `💭 TERMINAL QUOTE`
+
+<p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+</p>
 
 </div>
 
