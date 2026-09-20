@@ -282,39 +282,21 @@ LEARNING ───────────────────────�
 
 </div>
 
----
-
-## 💭 Terminal Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
-
----
-
-## 📡 Contact
+## 💭
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   LinkedIn  →  linkedin.com/in/gopinath2638                  ║
-║   Twitter   →  x.com/gopinath2368                            ║
-║   Email     →  gopinath2638@gmail.com                        ║
-║   Agency    →  loopfound.in                                  ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
-<br/>
+<br/><br/>
 
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=goprocker&icon=0&color=0" />
 </a>
 
-<br/><br/>
-
 </div>
 
+<br/>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+
