@@ -256,7 +256,7 @@ LEARNING ───────────────────────�
 
 ---
 
-##  GSSoC 2026 Achievements
+## GSSoC 2026 Achievements
 
 <div align="center">
 
