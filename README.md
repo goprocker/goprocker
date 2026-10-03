@@ -256,6 +256,39 @@ LEARNING ───────────────────────�
 
 ---
 
+##  GSSoC 2026 Achievements
+
+<div align="center">
+
+<sub><code>// GIRLSCRIPT SUMMER OF CODE 2026</code></sub>
+
+<br/><br/>
+
+<img src="./assets/gssoc-badges/ambassador.png" width="125" alt="GSSoC 2026 Ambassador Badge" />
+
+<br/>
+
+<strong>Ambassador — Rare Badge</strong>
+
+<br/><br/>
+
+<sub><code>COMMON BADGES</code></sub>
+
+<br/><br/>
+
+<img src="./assets/gssoc-badges/first-steps.png" width="85" alt="GSSoC 2026 First Steps Badge" />
+<img src="./assets/gssoc-badges/discord-verified.png" width="85" alt="GSSoC 2026 Discord Verified Badge" />
+<img src="./assets/gssoc-badges/profile-complete.png" width="85" alt="GSSoC 2026 Profile Complete Badge" />
+<img src="./assets/gssoc-badges/point-scorer.png" width="85" alt="GSSoC 2026 Point Scorer Badge" />
+<img src="./assets/gssoc-badges/bounty-hunter.png" width="85" alt="GSSoC 2026 Bounty Hunter Badge" />
+<!-- Add Code Warrior when its official image is available:
+<img src="./assets/gssoc-badges/code-warrior.png" width="85" alt="GSSoC 2026 Code Warrior Badge" />
+-->
+
+</div>
+
+---
+
 ## 📊 System Telemetry
 
 <div align="center">
