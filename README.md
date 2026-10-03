@@ -5,9 +5,9 @@
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="dark_mode.svg" />
-  <img alt="goprocker's GitHub profile" src="dark_mode.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="DARKMODE.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="DARKMODE.svg" />
+  <img alt="goprocker's GitHub profile" src="DARKMODE.svg" width="100%" />
 </picture>
 
 <br/>
