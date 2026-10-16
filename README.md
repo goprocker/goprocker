@@ -19,6 +19,7 @@
 <p>
   <a href="#-current-state"><code>// STATE</code></a> &nbsp;·&nbsp;
   <a href="#-selected-work"><code>// WORK</code></a> &nbsp;·&nbsp;
+  <a href="#-organizations"><code>// ORGANIZATIONS</code></a> &nbsp;·&nbsp;
   <a href="#-engineering-loadout"><code>// LOADOUT</code></a> &nbsp;·&nbsp;
   <a href="#-system-telemetry"><code>// TELEMETRY</code></a> &nbsp;·&nbsp;
   <a href="#-contact"><code>// CONTACT</code></a>
@@ -174,6 +175,37 @@ LEARNING ───────────────────────�
 </details>
 
 </td>
+</tr>
+</table>
+
+---
+
+## 🏢 Organizations
+
+<table>
+<tr>
+<td width="80"><img src="./assets/orgs/dscsist.jpg" width="64" height="64" alt="DSC SIST logo" /></td>
+<td><a href="https://github.com/dscsist" target="_blank" rel="noopener noreferrer"><strong>DSC SIST</strong></a><br/>Technical Team Member<br/><sub>Google Developer Student Club, Sathyabama</sub></td>
+</tr>
+<tr>
+<td width="80"><img src="./assets/orgs/loopfound.jpg" width="64" height="64" alt="LoopFound logo" /></td>
+<td><a href="https://github.com/LoopFound" target="_blank" rel="noopener noreferrer"><strong>LoopFound</strong></a><br/>Co-Founder &amp; CMO | Lead Engineer</td>
+</tr>
+<tr>
+<td width="80"><img src="./assets/orgs/micorsogtclub.png" width="64" height="64" alt="Microsoft Club SIST logo" /></td>
+<td><a href="https://github.com/microsoftclubsist" target="_blank" rel="noopener noreferrer"><strong>Microsoft Club SIST</strong></a><br/>Web &amp; App Developer<br/><sub>Microsoft Club Sathyabama</sub></td>
+</tr>
+<tr>
+<td width="80"><img src="./assets/orgs/redroxindustries.png" width="64" height="64" alt="Redrox Industries logo" /></td>
+<td><a href="https://github.com/Redrox-Industries" target="_blank" rel="noopener noreferrer"><strong>Redrox Industries</strong></a><br/>Technical Team Member</td>
+</tr>
+<tr>
+<td width="80"><img src="./assets/orgs/syncoai.png" width="64" height="64" alt="Synco AI logo" /></td>
+<td><a href="https://github.com/snycoai" target="_blank" rel="noopener noreferrer"><strong>Synco AI</strong></a><br/>AI Engineer Intern</td>
+</tr>
+<tr>
+<td width="80"><img src="./assets/orgs/aifoundry.jpg" width="64" height="64" alt="AI Foundry '29 logo" /></td>
+<td><a href="https://github.com/AI-FOUNDARY-29" target="_blank" rel="noopener noreferrer"><strong>AI Foundry '29</strong></a><br/>Founding Lead</td>
 </tr>
 </table>
 
