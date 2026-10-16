@@ -182,20 +182,17 @@ LEARNING ───────────────────────�
 
 ## 🏢 Organizations
 
-<table>
+<table width="100%">
 <tr>
-<td width="25%" valign="top"><img src="./assets/orgs/dscsist.jpg" width="64" height="64" alt="DSC SIST logo" /><br/><a href="https://github.com/dscsist" target="_blank" rel="noopener noreferrer"><strong>DSC SIST</strong></a><br/>Technical Team Member<br/><sub>Google Developer Student Club, Sathyabama</sub></td>
-<td width="25%" valign="top"><img src="./assets/orgs/loopfound.jpg" width="64" height="64" alt="LoopFound logo" /><br/><a href="https://github.com/LoopFound" target="_blank" rel="noopener noreferrer"><strong>LoopFound</strong></a><br/>Co-Founder &amp; CMO | Lead Engineer</td>
-<td width="25%" valign="top"><img src="./assets/orgs/micorsogtclub.png" width="64" height="64" alt="Microsoft Club SIST logo" /><br/><a href="https://github.com/microsoftclubsist" target="_blank" rel="noopener noreferrer"><strong>Microsoft Club SIST</strong></a><br/>Web &amp; App Developer<br/><sub>Microsoft Club Sathyabama</sub></td>
-<td width="25%" valign="top"><a href="https://github.com/Rare-Atom" target="_blank" rel="noopener noreferrer"><strong>Rare Atom</strong></a><br/>Frontend Developer &amp; Technical Team Member<br/><sub>WiCyS Sathyabama</sub></td>
+<td width="25%" colspan="3" align="center" valign="top"><img src="./assets/orgs/dscsist.jpg" width="64" height="64" alt="DSC SIST logo" /><br/><a href="https://github.com/dscsist" target="_blank" rel="noopener noreferrer"><strong>DSC SIST</strong></a><br/>Technical Team Member<br/><sub>Google Developer Student Club, Sathyabama</sub></td>
+<td width="25%" colspan="3" align="center" valign="top"><img src="./assets/orgs/loopfound.jpg" width="64" height="64" alt="LoopFound logo" /><br/><a href="https://github.com/LoopFound" target="_blank" rel="noopener noreferrer"><strong>LoopFound</strong></a><br/>Co-Founder &amp; CMO | Lead Engineer</td>
+<td width="25%" colspan="3" align="center" valign="top"><img src="./assets/orgs/micorsogtclub.png" width="64" height="64" alt="Microsoft Club SIST logo" /><br/><a href="https://github.com/microsoftclubsist" target="_blank" rel="noopener noreferrer"><strong>Microsoft Club SIST</strong></a><br/>Web &amp; App Developer<br/><sub>Microsoft Club Sathyabama</sub></td>
+<td width="25%" colspan="3" align="center" valign="top"><a href="https://github.com/Rare-Atom" target="_blank" rel="noopener noreferrer"><strong>Rare Atom</strong></a><br/>Frontend Developer &amp; Technical Team Member<br/><sub>WiCyS Sathyabama</sub></td>
 </tr>
-</table>
-
-<table>
 <tr>
-<td width="33%" valign="top"><img src="./assets/orgs/redroxindustries.png" width="64" height="64" alt="Redrox Industries logo" /><br/><a href="https://github.com/Redrox-Industries" target="_blank" rel="noopener noreferrer"><strong>Redrox Industries</strong></a><br/>Technical Team Member</td>
-<td width="33%" valign="top"><img src="./assets/orgs/syncoai.png" width="64" height="64" alt="Synco AI logo" /><br/><a href="https://github.com/snycoai" target="_blank" rel="noopener noreferrer"><strong>Synco AI</strong></a><br/>AI Engineer Intern</td>
-<td width="33%" valign="top"><img src="./assets/orgs/aifoundry.jpg" width="64" height="64" alt="AI Foundry '29 logo" /><br/><a href="https://github.com/AI-FOUNDARY-29" target="_blank" rel="noopener noreferrer"><strong>AI Foundry '29</strong></a><br/>Founding Lead</td>
+<td width="33%" colspan="4" align="center" valign="top"><img src="./assets/orgs/redroxindustries.png" width="64" height="64" alt="Redrox Industries logo" /><br/><a href="https://github.com/Redrox-Industries" target="_blank" rel="noopener noreferrer"><strong>Redrox Industries</strong></a><br/>Technical Team Member</td>
+<td width="33%" colspan="4" align="center" valign="top"><img src="./assets/orgs/syncoai.png" width="64" height="64" alt="Synco AI logo" /><br/><a href="https://github.com/snycoai" target="_blank" rel="noopener noreferrer"><strong>Synco AI</strong></a><br/>AI Engineer Intern</td>
+<td width="34%" colspan="4" align="center" valign="top"><img src="./assets/orgs/aifoundry.jpg" width="64" height="64" alt="AI Foundry '29 logo" /><br/><a href="https://github.com/AI-FOUNDARY-29" target="_blank" rel="noopener noreferrer"><strong>AI Foundry '29</strong></a><br/>Founding Lead</td>
 </tr>
 </table>
 
