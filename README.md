@@ -54,20 +54,17 @@ I'm a **CS & AI Engineering student** from Chennai who'd rather ship than talk a
 
 <img src="./assets/readme/h-orgs.svg" width="100%" alt="Organizations" />
 
-<table align="center">
-<tr>
-<td align="center" width="150"><img src="./assets/orgs/loopfound.jpg" width="52" height="52" alt="" /><br/><a href="https://github.com/LoopFound"><b>LoopFound</b></a><br/><sub>Co-Founder &amp; CMO</sub></td>
-<td align="center" width="150"><img src="./assets/orgs/aifoundry.jpg" width="52" height="52" alt="" /><br/><a href="https://github.com/AI-FOUNDARY-29"><b>AI Foundry '29</b></a><br/><sub>Founding Lead</sub></td>
-<td align="center" width="150"><img src="./assets/orgs/syncoai.png" width="52" height="52" alt="" /><br/><a href="https://github.com/snycoai"><b>Synco AI</b></a><br/><sub>AI Engineer Intern</sub></td>
-<td align="center" width="150"><img src="./assets/orgs/dscsist.jpg" width="52" height="52" alt="" /><br/><a href="https://github.com/dscsist"><b>GDSC SIST</b></a><br/><sub>Technical Team</sub></td>
-</tr>
-<tr>
-<td align="center" width="150"><img src="./assets/orgs/micorsogtclub.png" width="52" height="52" alt="" /><br/><a href="https://github.com/microsoftclubsist"><b>Microsoft Club</b></a><br/><sub>Web &amp; App Dev</sub></td>
-<td align="center" width="150"><img src="./assets/orgs/redroxindustries.png" width="52" height="52" alt="" /><br/><a href="https://github.com/Redrox-Industries"><b>Redrox</b></a><br/><sub>Technical Team</sub></td>
-<td align="center" width="150"><a href="https://github.com/Rare-Atom"><b>Rare Atom</b></a><br/><sub>Frontend Dev<br/>WiCyS Sathyabama</sub></td>
-<td align="center" width="150"><a href="https://gssoc.girlscript.tech"><b>GSSoC '26</b></a><br/><sub>Ambassador</sub></td>
-</tr>
-</table>
+<p align="center">
+<a href="https://github.com/LoopFound"><img src="./assets/readme/org-loopfound.svg" width="24%" alt="LoopFound" /></a>
+<a href="https://github.com/AI-FOUNDARY-29"><img src="./assets/readme/org-aifoundry.svg" width="24%" alt="AI Foundry '29" /></a>
+<a href="https://github.com/snycoai"><img src="./assets/readme/org-syncoai.svg" width="24%" alt="Synco AI" /></a>
+<a href="https://github.com/dscsist"><img src="./assets/readme/org-dscsist.svg" width="24%" alt="GDSC SIST" /></a>
+<br/>
+<a href="https://github.com/microsoftclubsist"><img src="./assets/readme/org-microsoftclub.svg" width="24%" alt="Microsoft Club" /></a>
+<a href="https://github.com/Redrox-Industries"><img src="./assets/readme/org-redrox.svg" width="24%" alt="Redrox Industries" /></a>
+<a href="https://github.com/Rare-Atom"><img src="./assets/readme/org-rareatom.svg" width="24%" alt="Rare Atom" /></a>
+<a href="https://gssoc.girlscript.tech"><img src="./assets/readme/org-gssoc.svg" width="24%" alt="GSSoC 2026" /></a>
+</p>
 
 <img src="./assets/readme/h-stack.svg" width="100%" alt="Tech Stack" />
 
