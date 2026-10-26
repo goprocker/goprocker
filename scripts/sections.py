@@ -1,6 +1,7 @@
 """Generate the Tech Stack and GSSoC section cards for the README."""
 import base64
 import io
+import re
 from pathlib import Path
 
 from PIL import Image
@@ -8,6 +9,7 @@ from PIL import Image
 ROOT = Path(__file__).resolve().parent.parent
 OUT = ROOT / "assets" / "readme"
 BADGES = ROOT / "assets" / "gssoc-badges"
+ICONS = Path(__file__).resolve().parent / "icons"
 SANS = "'Segoe UI',Inter,-apple-system,Helvetica,Arial,sans-serif"
 MONO = "Consolas,'SF Mono',Menlo,monospace"
 
@@ -30,6 +32,36 @@ STACK = [
                           ("After Effects", "#9999FF"), ("Lightroom", "#31A8FF"), ("Framer", "#0099ff"), ("Canva", "#00C4CC")]),
 ]
 
+# label -> cached icon: sk-* from skillicons.dev, si-* from simple-icons, dv-* from devicon
+ICON = {"C++": "sk-cpp", "C": "sk-c", "JavaScript": "sk-js", "TypeScript": "sk-ts", "Python": "sk-python", "Java": "sk-java",
+        "HTML": "sk-html", "CSS": "sk-css", "React": "sk-react", "Next.js": "sk-nextjs", "Astro": "sk-astro", "Vue": "sk-vue",
+        "Vite": "sk-vite", "Tailwind": "sk-tailwind", "Vuetify": "si-vuetify", "WordPress": "sk-wordpress", "Node.js": "sk-nodejs",
+        "Express": "sk-express", "MongoDB": "sk-mongodb", "MySQL": "sk-mysql", "PostgreSQL": "sk-postgres", "SQLite": "sk-sqlite",
+        "Supabase": "sk-supabase", "Firebase": "sk-firebase", "TensorFlow": "sk-tensorflow", "PyTorch": "sk-pytorch",
+        "OpenCV": "sk-opencv", "Pandas": "si-pandas", "NumPy": "si-numpy", "Matplotlib": "dv-matplotlib", "Streamlit": "si-streamlit",
+        "Git": "sk-git", "GitHub": "sk-github", "GitLab": "sk-gitlab", "Actions": "sk-githubactions", "Docker": "sk-docker",
+        "Vercel": "sk-vercel", "Netlify": "sk-netlify", "Cloudflare": "sk-cloudflare", "Render": "si-render", "Figma": "sk-figma",
+        "Photoshop": "sk-ps", "Illustrator": "sk-ai", "Premiere": "sk-pr", "After Effects": "sk-ae", "Lightroom": "si-adobelightroom",
+        "Framer": "si-framer", "Canva": "si-canva"}
+
+
+def icon(label, color, x, y, size):
+    """Inline a cached logo as a nested svg, on the same dark tile skillicons uses."""
+    key = ICON[label]
+    src = (ICONS / f"{key}.svg").read_text(encoding="utf-8")
+    pre = re.sub(r"\W", "", key)
+    src = re.sub(r'id="([^"]+)"', lambda m: f'id="{pre}{m[1]}"', src)
+    src = re.sub(r"(url\(#|href=\"#)([^)\"]+)", lambda m: m[1] + pre + m[2], src)
+    if key.startswith("sk-"):
+        inner = re.search(r'<g transform[^>]*>\s*<svg[^>]*>(.*)</svg>\s*</g>', src, re.S).group(1)
+    else:
+        box = 24 if key.startswith("si-") else 128
+        body = re.sub(r"<title>.*?</title>", "", re.search(r"<svg[^>]*>(.*)</svg>", src, re.S).group(1))
+        fill = "" if key.startswith("dv-") else f' fill="{color}"'
+        inner = (f'<rect width="256" height="256" rx="60" fill="#242938"/>'
+                 f'<g transform="translate(48 48) scale({160 / box:.4f})"{fill}>{body}</g>')
+    return f'<svg x="{x:.1f}" y="{y:.1f}" width="{size}" height="{size}" viewBox="0 0 256 256">{inner}</svg>'
+
 
 def esc(s):
     return s.replace("&", "&amp;").replace("<", "&lt;")
@@ -41,13 +73,13 @@ def text_w(s, size):
 
 def stack():
     W, cols, gap, cw = 1200, 3, 24, 384
-    pad, chip_h, chip_gap = 22, 30, 8
+    pad, chip_h, chip_gap = 22, 34, 8
     cards, row_h = [], []
     for i, (name, accent, items) in enumerate(STACK):
         # lay out chips into rows that fit the card width
         x, y, chips = pad, 78, []
         for label, color in items:
-            w = text_w(label, 13) + 34
+            w = text_w(label, 13) + 42
             if x + w > cw - pad:
                 x, y = pad, y + chip_h + chip_gap
             chips.append((x, y, w, label, color))
@@ -56,7 +88,7 @@ def stack():
         row_h.append(y + chip_h + pad)
     ch = max(row_h)
     H = ch * 2 + gap
-    out = [f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}" role="img" aria-label="Tech stack by category">',
+    out = [f'<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="{W}" height="{H}" viewBox="0 0 {W} {H}" role="img" aria-label="Tech stack by category">',
            f"  <defs>\n    {DEFS}\n  </defs>", f'  <g font-family="{SANS}">']
     for i, (name, accent, items, chips) in enumerate(cards):
         cx, cy = (i % cols) * (cw + gap), (i // cols) * (ch + gap)
@@ -68,9 +100,9 @@ def stack():
         out.append(f'    <text x="{cw - pad}" y="38" text-anchor="end" font-size="11.5" font-weight="600" fill="#6b7896" letter-spacing=".6">{len(items)} TOOLS</text>')
         out.append(f'    <rect x="{pad}" y="54" width="{cw - 2 * pad}" height="1" fill="#ffffff" fill-opacity=".07"/>')
         for x, y, w, label, color in chips:
-            out.append(f'    <rect x="{x:.1f}" y="{y}" width="{w:.1f}" height="{chip_h}" rx="15" fill="#ffffff" fill-opacity=".04" stroke="#ffffff" stroke-opacity=".09"/>'
-                       f'<circle cx="{x + 15:.1f}" cy="{y + 15}" r="4" fill="{color}"/>'
-                       f'<text x="{x + 25:.1f}" y="{y + 19.5}" font-size="13" font-weight="600" fill="#c9d3ea">{esc(label)}</text>')
+            out.append(f'    <rect x="{x:.1f}" y="{y}" width="{w:.1f}" height="{chip_h}" rx="17" fill="#ffffff" fill-opacity=".04" stroke="#ffffff" stroke-opacity=".09"/>'
+                       f'{icon(label, color, x + 6, y + 6, 22)}'
+                       f'<text x="{x + 34:.1f}" y="{y + 21.5}" font-size="13" font-weight="600" fill="#c9d3ea">{esc(label)}</text>')
         out.append("  </g>")
     out += ["  </g>", "</svg>", ""]
     (OUT / "stack.svg").write_text("\n".join(out), encoding="utf-8")
