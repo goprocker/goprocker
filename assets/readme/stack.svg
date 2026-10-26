@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="436" viewBox="0 0 1200 436" role="img" aria-label="Tech stack by category">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d1430"/><stop offset="1" stop-color="#080c1a"/></linearGradient>
+    <style>.in{animation:in .6s ease-out backwards}@keyframes in{from{opacity:0;transform:translateY(8px)}}</style>
+  </defs>
+  <g font-family="'Segoe UI',Inter,-apple-system,Helvetica,Arial,sans-serif">
+  <g class="in" style="animation-delay:0.00s" transform="translate(0 0)">
+    <rect x=".5" y=".5" width="383" height="205" rx="16" fill="url(#g)" stroke="#ffffff" stroke-opacity=".09"/>
+    <rect x="22" y=".5" width="28" height="3" rx="1.5" fill="#70a5fd"/>
+    <text x="22" y="38" font-family="Consolas,'SF Mono',Menlo,monospace" font-size="12" font-weight="700" fill="#70a5fd">01</text>
+    <text x="48" y="39" font-size="18" font-weight="800" fill="#e6edf3" letter-spacing="-.2">Languages</text>
+    <text x="362" y="38" text-anchor="end" font-size="11.5" font-weight="600" fill="#6b7896" letter-spacing=".6">8 TOOLS</text>
+    <rect x="22" y="54" width="340" height="1" fill="#ffffff" fill-opacity=".07"/>
+    <rect x="22.0" y="78" width="56.4" height="30" rx="15" fill="#ffffff" fill-opacity=".04" stroke="#ffffff" stroke-opacity=".09"/><circle cx="37.0" cy="93" r="4" fill="#00599C"/><text x="47.0" y="97.5" font-size="13" font-weight="600" fill="#c9d3ea">C++</text>
+    <rect x="86.4" y="78" width="42.1" height="30" rx="15" fill="#ffffff" fill-opacity=".04" stroke="#ffffff" stroke-opacity=".09"/><circle cx="101.4" cy="93" r="4" fill="#A8B9CC"/><text x="111.4" y="97.5" font-size="13" font-weight="600" fill="#c9d3ea">C</text>
+    <rect x="136.4" y="78" width="104.5" height="30" rx="15" fill="#ffffff" fill-opacity=".04" stroke="#ffffff" stroke-opacity=".09"/><circle cx="151.4" cy="93" r="4" fill="#F7DF1E"/><text x="161.4" y="97.5" font-size="13" font-weight="600" fill="#c9d3ea">JavaScript</text>
+    <rect x="248.9" y="78" width="104.5" height="30" rx="15" fill="#ffffff" fill-opacity=".04" stroke="#ffffff" stroke-opacity=".09"/><circle cx="263.9" cy="93" r="4" fill="#3178C6"/><text x="273.9" y="97.5" font-size="13" font-weight="600" fill="#c9d3ea">TypeScript</text>
+    <rect x="22.0" y="116" width="77.8" height="30" rx="15" fill="#ffffff" fill-opacity=".04" stroke="#ffffff" stroke-opacity=".09"/><circle cx="37.0" cy="131" r="4" fill="#3776AB"/><text x="47.0" y="135.5" font-size="13" font-weight="600" fill="#c9d3ea">Python</text>
+    <rect x="107.8" y="116" width="63.5" height="30" rx="15" fill="#ffffff" fill-opacity=".04" stroke="#ffffff" stroke-opacity=".09"/><circle cx="122.8" cy="131" r="4" fill="#ED8B00"/><text x="132.8" y="135.5" font-size="13" font-weight="600" fill="#c9d3ea">Java</text>
+    <rect x="179.3" y="116" width="66.2" height="30" rx="15" fill="#ffffff" fill-opacity=".04" stroke="#ffffff" stroke-opacity=".09"/><circle cx="194.3" cy="131" r="4" fill="#E34F26"/><text x="204.3" y="135.5" font-size="13" font-weight="600" fill="#c9d3ea">HTML</text>
+    <rect x="253.6" y="116" width="58.2" height="30" rx="15" fill="#ffffff" fill-opacity=".04" stroke="#ffffff" stroke-opacity=".09"/><circle cx="268.6" cy="131" r="4" fill="#1572B6"/><text x="278.6" y="135.5" font-size="13" font-weight="600" fill="#c9d3ea">CSS</text>
+  </g>
+  <g class="in" style="animation-delay:0.08s" transform="translate(408 0)">
+    <rect x=".5" y=".5" width="383" height="205" rx="16" fill="url(#g)" stroke="#ffffff" stroke-opacity=".09"/>
+    <rect x="22" y=".5" width="28" height="3" rx="1.5" fill="#a78bfa"/>
+    <text x="22" y="38" font-family="Consolas,'SF Mono',Menlo,monospace" font-size="12" font-weight="700" fill="#a78bfa">02</text>
+    <text x="48" y="39" font-size="18" font-weight="800" fill="#e6edf3" letter-spacing="-.2">Frontend</text>
+    <text x="362" y="38" text-anchor="end" font-size="11.5" font-weight="600" fill="#6b7896" letter-spacing=".6">8 TOOLS</text>
+    <rect x="22" y="54" width="340" height="1" fill="#ffffff" fill-opacity=".07"/>
+    <rect x="22.0" y="78" width="70.7" height="30" rx="15" fill="#ffffff" fill-opacity=".04" stroke="#ffffff" stroke-opacity=".09"/><circle cx="37.0" cy="93" r="4" fill="#61DAFB"/><text x="47.0" y="97.5" font-size="13" font-weight="600" fill="#c9d3ea">React</text>
+    <rect x="100.7" y="78" width="82.1" height="30" rx="15" fill="#ffffff" fill-opacity=".04" stroke="#ffffff" stroke-opacity=".09"/><circle cx="115.7" cy="93" r="4" fill="#ffffff"/><text x="125.7" y="97.5" font-size="13" font-weight="600" fill="#c9d3ea">Next.js</text>
+    <rect x="190.8" y="78" width="70.7" height="30" rx="15" fill="#ffffff" fill-opacity=".04" stroke="#ffffff" stroke-opacity=".09"/><circle cx="205.8" cy="93" r="4" fill="#FF5D01"/><text x="215.8" y="97.5" font-size="13" font-weight="600" fill="#c9d3ea">Astro</text>
+    <rect x="269.4" y="78" width="56.4" height="30" rx="15" fill="#ffffff" fill-opacity=".04" stroke="#ffffff" stroke-opacity=".09"/><circle cx="284.4" cy="93" r="4" fill="#4FC08D"/><text x="294.4" y="97.5" font-size="13" font-weight="600" fill="#c9d3ea">Vue</text>
+    <rect x="22.0" y="116" width="60.7" height="30" rx="15" fill="#ffffff" fill-opacity=".04" stroke="#ffffff" stroke-opacity=".09"/><circle cx="37.0" cy="131" r="4" fill="#646CFF"/><text x="47.0" y="135.5" font-size="13" font-weight="600" fill="#c9d3ea">Vite</text>
+    <rect x="90.7" y="116" width="83.5" height="30" rx="15" fill="#ffffff" fill-opacity=".04" stroke="#ffffff" stroke-opacity=".09"/><circle cx="105.7" cy="131" r="4" fill="#06B6D4"/><text x="115.7" y="135.5" font-size="13" font-weight="600" fill="#c9d3ea">Tailwind</text>
+    <rect x="182.2" y="116" width="82.1" height="30" rx="15" fill="#ffffff" fill-opacity=".04" stroke="#ffffff" stroke-opacity=".09"/><circle cx="197.2" cy="131" r="4" fill="#1867C0"/><text x="207.2" y="135.5" font-size="13" font-weight="600" fill="#c9d3ea">Vuetify</text>
+    <rect x="22.0" y="154" width="100.2" height="30" rx="15" fill="#ffffff" fill-opacity=".04" stroke="#ffffff" stroke-opacity=".09"/><circle cx="37.0" cy="169" r="4" fill="#21759B"/><text x="47.0" y="173.5" font-size="13" font-weight="600" fill="#c9d3ea">WordPress</text>
+  </g>
+  <g class="in" style="animation-delay:0.16s" transform="translate(816 0)">
+    <rect x=".5" y=".5" width="383" height="205" rx="16" fill="url(#g)" stroke="#ffffff" stroke-opacity=".09"/>
+    <rect x="22" y=".5" width="28" height="3" rx="1.5" fill="#34d399"/>
+    <text x="22" y="38" font-family="Consolas,'SF Mono',Menlo,monospace" font-size="12" font-weight="700" fill="#34d399">03</text>
+    <text x="48" y="39" font-size="18" font-weight="800" fill="#e6edf3" letter-spacing="-.2">Backend &amp; Data</text>
+    <text x="362" y="38" text-anchor="end" font-size="11.5" font-weight="600" fill="#6b7896" letter-spacing=".6">8 TOOLS</text>
+    <rect x="22" y="54" width="340" height="1" fill="#ffffff" fill-opacity=".07"/>
+    <rect x="22.0" y="78" width="82.1" height="30" rx="15" fill="#ffffff" fill-opacity=".04" stroke="#ffffff" stroke-opacity=".09"/><circle cx="37.0" cy="93" r="4" fill="#5FA04E"/><text x="47.0" y="97.5" font-size="13" font-weight="600" fill="#c9d3ea">Node.js</text>
+    <rect x="112.1" y="78" width="85.0" height="30" rx="15" fill="#ffffff" fill-opacity=".04" stroke="#ffffff" stroke-opacity=".09"/><circle cx="127.1" cy="93" r="4" fill="#ffffff"/><text x="137.1" y="97.5" font-size="13" font-weight="600" fill="#c9d3ea">Express</text>
+    <rect x="205.1" y="78" width="86.8" height="30" rx="15" fill="#ffffff" fill-opacity=".04" stroke="#ffffff" stroke-opacity=".09"/><circle cx="220.1" cy="93" r="4" fill="#47A248"/><text x="230.1" y="97.5" font-size="13" font-weight="600" fill="#c9d3ea">MongoDB</text>
+    <rect x="22.0" y="116" width="73.4" height="30" rx="15" fill="#ffffff" fill-opacity=".04" stroke="#ffffff" stroke-opacity=".09"/><circle cx="37.0" cy="131" r="4" fill="#4479A1"/><text x="47.0" y="135.5" font-size="13" font-weight="600" fill="#c9d3ea">MySQL</text>
+    <rect x="103.4" y="116" width="109.1" height="30" rx="15" fill="#ffffff" fill-opacity=".04" stroke="#ffffff" stroke-opacity=".09"/><circle cx="118.4" cy="131" r="4" fill="#4169E1"/><text x="128.4" y="135.5" font-size="13" font-weight="600" fill="#c9d3ea">PostgreSQL</text>
+    <rect x="220.5" y="116" width="76.8" height="30" rx="15" fill="#ffffff" fill-opacity=".04" stroke="#ffffff" stroke-opacity=".09"/><circle cx="235.5" cy="131" r="4" fill="#5ea9d6"/><text x="245.5" y="135.5" font-size="13" font-weight="600" fill="#c9d3ea">SQLite</text>
+    <rect x="22.0" y="154" width="92.1" height="30" rx="15" fill="#ffffff" fill-opacity=".04" stroke="#ffffff" stroke-opacity=".09"/><circle cx="37.0" cy="169" r="4" fill="#3FCF8E"/><text x="47.0" y="173.5" font-size="13" font-weight="600" fill="#c9d3ea">Supabase</text>
+    <rect x="122.1" y="154" width="89.2" height="30" rx="15" fill="#ffffff" fill-opacity=".04" stroke="#ffffff" stroke-opacity=".09"/><circle cx="137.1" cy="169" r="4" fill="#FFCA28"/><text x="147.1" y="173.5" font-size="13" font-weight="600" fill="#c9d3ea">Firebase</text>
+  </g>
+  <g class="in" style="animation-delay:0.24s" transform="translate(0 230)">
+    <rect x=".5" y=".5" width="383" height="205" rx="16" fill="url(#g)" stroke="#ffffff" stroke-opacity=".09"/>
+    <rect x="22" y=".5" width="28" height="3" rx="1.5" fill="#f472b6"/>
+    <text x="22" y="38" font-family="Consolas,'SF Mono',Menlo,monospace" font-size="12" font-weight="700" fill="#f472b6">04</text>
+    <text x="48" y="39" font-size="18" font-weight="800" fill="#e6edf3" letter-spacing="-.2">AI &amp; ML</text>
+    <text x="362" y="38" text-anchor="end" font-size="11.5" font-weight="600" fill="#6b7896" letter-spacing=".6">7 TOOLS</text>
+    <rect x="22" y="54" width="340" height="1" fill="#ffffff" fill-opacity=".07"/>
+    <rect x="22.0" y="78" width="104.5" height="30" rx="15" fill="#ffffff" fill-opacity=".04" stroke="#ffffff" stroke-opacity=".09"/><circle cx="37.0" cy="93" r="4" fill="#FF6F00"/><text x="47.0" y="97.5" font-size="13" font-weight="600" fill="#c9d3ea">TensorFlow</text>
+    <rect x="134.5" y="78" width="85.9" height="30" rx="15" fill="#ffffff" fill-opacity=".04" stroke="#ffffff" stroke-opacity=".09"/><circle cx="149.5" cy="93" r="4" fill="#EE4C2C"/><text x="159.5" y="97.5" font-size="13" font-weight="600" fill="#c9d3ea">PyTorch</text>
+    <rect x="228.3" y="78" width="79.6" height="30" rx="15" fill="#ffffff" fill-opacity=".04" stroke="#ffffff" stroke-opacity=".09"/><circle cx="243.3" cy="93" r="4" fill="#5C3EE8"/><text x="253.3" y="97.5" font-size="13" font-weight="600" fill="#c9d3ea">OpenCV</text>
+    <rect x="22.0" y="116" width="77.8" height="30" rx="15" fill="#ffffff" fill-opacity=".04" stroke="#ffffff" stroke-opacity=".09"/><circle cx="37.0" cy="131" r="4" fill="#9b8cff"/><text x="47.0" y="135.5" font-size="13" font-weight="600" fill="#c9d3ea">Pandas</text>
+    <rect x="107.8" y="116" width="71.6" height="30" rx="15" fill="#ffffff" fill-opacity=".04" stroke="#ffffff" stroke-opacity=".09"/><circle cx="122.8" cy="131" r="4" fill="#4DABCF"/><text x="132.8" y="135.5" font-size="13" font-weight="600" fill="#c9d3ea">NumPy</text>
+    <rect x="187.4" y="116" width="97.8" height="30" rx="15" fill="#ffffff" fill-opacity=".04" stroke="#ffffff" stroke-opacity=".09"/><circle cx="202.4" cy="131" r="4" fill="#11a0c0"/><text x="212.4" y="135.5" font-size="13" font-weight="600" fill="#c9d3ea">Matplotlib</text>
+    <rect x="22.0" y="154" width="93.5" height="30" rx="15" fill="#ffffff" fill-opacity=".04" stroke="#ffffff" stroke-opacity=".09"/><circle cx="37.0" cy="169" r="4" fill="#FF4B4B"/><text x="47.0" y="173.5" font-size="13" font-weight="600" fill="#c9d3ea">Streamlit</text>
+  </g>
+  <g class="in" style="animation-delay:0.32s" transform="translate(408 230)">
+    <rect x=".5" y=".5" width="383" height="205" rx="16" fill="url(#g)" stroke="#ffffff" stroke-opacity=".09"/>
+    <rect x="22" y=".5" width="28" height="3" rx="1.5" fill="#fbbf24"/>
+    <text x="22" y="38" font-family="Consolas,'SF Mono',Menlo,monospace" font-size="12" font-weight="700" fill="#fbbf24">05</text>
+    <text x="48" y="39" font-size="18" font-weight="800" fill="#e6edf3" letter-spacing="-.2">Infra &amp; Tools</text>
+    <text x="362" y="38" text-anchor="end" font-size="11.5" font-weight="600" fill="#6b7896" letter-spacing=".6">9 TOOLS</text>
+    <rect x="22" y="54" width="340" height="1" fill="#ffffff" fill-opacity=".07"/>
+    <rect x="22.0" y="78" width="53.5" height="30" rx="15" fill="#ffffff" fill-opacity=".04" stroke="#ffffff" stroke-opacity=".09"/><circle cx="37.0" cy="93" r="4" fill="#F05032"/><text x="47.0" y="97.5" font-size="13" font-weight="600" fill="#c9d3ea">Git</text>
+    <rect x="83.5" y="78" width="75.9" height="30" rx="15" fill="#ffffff" fill-opacity=".04" stroke="#ffffff" stroke-opacity=".09"/><circle cx="98.5" cy="93" r="4" fill="#ffffff"/><text x="108.5" y="97.5" font-size="13" font-weight="600" fill="#c9d3ea">GitHub</text>
+    <rect x="167.4" y="78" width="75.9" height="30" rx="15" fill="#ffffff" fill-opacity=".04" stroke="#ffffff" stroke-opacity=".09"/><circle cx="182.4" cy="93" r="4" fill="#FC6D26"/><text x="192.4" y="97.5" font-size="13" font-weight="600" fill="#c9d3ea">GitLab</text>
+    <rect x="251.2" y="78" width="82.1" height="30" rx="15" fill="#ffffff" fill-opacity=".04" stroke="#ffffff" stroke-opacity=".09"/><circle cx="266.2" cy="93" r="4" fill="#2088FF"/><text x="276.2" y="97.5" font-size="13" font-weight="600" fill="#c9d3ea">Actions</text>
+    <rect x="22.0" y="116" width="77.8" height="30" rx="15" fill="#ffffff" fill-opacity=".04" stroke="#ffffff" stroke-opacity=".09"/><circle cx="37.0" cy="131" r="4" fill="#2496ED"/><text x="47.0" y="135.5" font-size="13" font-weight="600" fill="#c9d3ea">Docker</text>
+    <rect x="107.8" y="116" width="75.0" height="30" rx="15" fill="#ffffff" fill-opacity=".04" stroke="#ffffff" stroke-opacity=".09"/><circle cx="122.8" cy="131" r="4" fill="#ffffff"/><text x="132.8" y="135.5" font-size="13" font-weight="600" fill="#c9d3ea">Vercel</text>
+    <rect x="190.8" y="116" width="79.2" height="30" rx="15" fill="#ffffff" fill-opacity=".04" stroke="#ffffff" stroke-opacity=".09"/><circle cx="205.8" cy="131" r="4" fill="#00C7B7"/><text x="215.8" y="135.5" font-size="13" font-weight="600" fill="#c9d3ea">Netlify</text>
+    <rect x="22.0" y="154" width="100.7" height="30" rx="15" fill="#ffffff" fill-opacity=".04" stroke="#ffffff" stroke-opacity=".09"/><circle cx="37.0" cy="169" r="4" fill="#F38020"/><text x="47.0" y="173.5" font-size="13" font-weight="600" fill="#c9d3ea">Cloudflare</text>
+    <rect x="130.7" y="154" width="77.8" height="30" rx="15" fill="#ffffff" fill-opacity=".04" stroke="#ffffff" stroke-opacity=".09"/><circle cx="145.7" cy="169" r="4" fill="#46E3B7"/><text x="155.7" y="173.5" font-size="13" font-weight="600" fill="#c9d3ea">Render</text>
+  </g>
+  <g class="in" style="animation-delay:0.40s" transform="translate(816 230)">
+    <rect x=".5" y=".5" width="383" height="205" rx="16" fill="url(#g)" stroke="#ffffff" stroke-opacity=".09"/>
+    <rect x="22" y=".5" width="28" height="3" rx="1.5" fill="#22d3ee"/>
+    <text x="22" y="38" font-family="Consolas,'SF Mono',Menlo,monospace" font-size="12" font-weight="700" fill="#22d3ee">06</text>
+    <text x="48" y="39" font-size="18" font-weight="800" fill="#e6edf3" letter-spacing="-.2">Design</text>
+    <text x="362" y="38" text-anchor="end" font-size="11.5" font-weight="600" fill="#6b7896" letter-spacing=".6">8 TOOLS</text>
+    <rect x="22" y="54" width="340" height="1" fill="#ffffff" fill-opacity=".07"/>
+    <rect x="22.0" y="78" width="67.8" height="30" rx="15" fill="#ffffff" fill-opacity=".04" stroke="#ffffff" stroke-opacity=".09"/><circle cx="37.0" cy="93" r="4" fill="#F24E1E"/><text x="47.0" y="97.5" font-size="13" font-weight="600" fill="#c9d3ea">Figma</text>
+    <rect x="97.8" y="78" width="99.3" height="30" rx="15" fill="#ffffff" fill-opacity=".04" stroke="#ffffff" stroke-opacity=".09"/><circle cx="112.8" cy="93" r="4" fill="#31A8FF"/><text x="122.8" y="97.5" font-size="13" font-weight="600" fill="#c9d3ea">Photoshop</text>
+    <rect x="205.1" y="78" width="104.1" height="30" rx="15" fill="#ffffff" fill-opacity=".04" stroke="#ffffff" stroke-opacity=".09"/><circle cx="220.1" cy="93" r="4" fill="#FF9A00"/><text x="230.1" y="97.5" font-size="13" font-weight="600" fill="#c9d3ea">Illustrator</text>
+    <rect x="22.0" y="116" width="89.2" height="30" rx="15" fill="#ffffff" fill-opacity=".04" stroke="#ffffff" stroke-opacity=".09"/><circle cx="37.0" cy="131" r="4" fill="#9999FF"/><text x="47.0" y="135.5" font-size="13" font-weight="600" fill="#c9d3ea">Premiere</text>
+    <rect x="119.2" y="116" width="128.8" height="30" rx="15" fill="#ffffff" fill-opacity=".04" stroke="#ffffff" stroke-opacity=".09"/><circle cx="134.2" cy="131" r="4" fill="#9999FF"/><text x="144.2" y="135.5" font-size="13" font-weight="600" fill="#c9d3ea">After Effects</text>
+    <rect x="256.0" y="116" width="96.4" height="30" rx="15" fill="#ffffff" fill-opacity=".04" stroke="#ffffff" stroke-opacity=".09"/><circle cx="271.0" cy="131" r="4" fill="#31A8FF"/><text x="281.0" y="135.5" font-size="13" font-weight="600" fill="#c9d3ea">Lightroom</text>
+    <rect x="22.0" y="154" width="77.8" height="30" rx="15" fill="#ffffff" fill-opacity=".04" stroke="#ffffff" stroke-opacity=".09"/><circle cx="37.0" cy="169" r="4" fill="#0099ff"/><text x="47.0" y="173.5" font-size="13" font-weight="600" fill="#c9d3ea">Framer</text>
+    <rect x="107.8" y="154" width="70.7" height="30" rx="15" fill="#ffffff" fill-opacity=".04" stroke="#ffffff" stroke-opacity=".09"/><circle cx="122.8" cy="169" r="4" fill="#00C4CC"/><text x="132.8" y="173.5" font-size="13" font-weight="600" fill="#c9d3ea">Canva</text>
+  </g>
+  </g>
+</svg>

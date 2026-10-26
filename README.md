@@ -47,51 +47,11 @@
 
 <img src="./assets/readme/h-stack.svg" width="100%" alt="Tech Stack" />
 
-<div align="center">
-<table>
-<tr>
-<td width="160"><b>Languages</b></td>
-<td><img src="https://skillicons.dev/icons?i=cpp,c,js,ts,python,java,html,css&theme=dark" height="38" alt="Languages" /></td>
-</tr>
-<tr>
-<td width="160"><b>Frontend</b></td>
-<td><img src="https://skillicons.dev/icons?i=react,nextjs,astro,vue,vite,tailwind,wordpress&theme=dark" height="38" alt="Frontend" /><br/><img src="https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=white" alt="Vuetify" /></td>
-</tr>
-<tr>
-<td width="160"><b>Backend &amp; Data</b></td>
-<td><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,sqlite,supabase,firebase&theme=dark" height="38" alt="Backend &amp; Data" /></td>
-</tr>
-<tr>
-<td width="160"><b>AI &amp; ML</b></td>
-<td><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" height="38" alt="AI &amp; ML" /><br/><img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" /> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" /> <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white" alt="Matplotlib" /> <img src="https://img.shields.io/badge/Streamlit-FE4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" /></td>
-</tr>
-<tr>
-<td width="160"><b>Infra &amp; Tools</b></td>
-<td><img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions,docker,vercel,netlify,cloudflare&theme=dark" height="38" alt="Infra &amp; Tools" /><br/><img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" alt="Render" /></td>
-</tr>
-<tr>
-<td width="160"><b>Design</b></td>
-<td><img src="https://skillicons.dev/icons?i=figma,ps,ai,pr,ae&theme=dark" height="38" alt="Design" /><br/><img src="https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Framer" /> <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva" /> <img src="https://img.shields.io/badge/Lightroom-31A8FF?style=flat-square&logo=adobelightroom&logoColor=white" alt="Lightroom" /></td>
-</tr>
-</table>
-</div>
+<img src="./assets/readme/stack.svg" width="100%" alt="Tech stack: languages, frontend, backend and data, AI and ML, infra and tools, design" />
 
 <img src="./assets/readme/h-gssoc.svg" width="100%" alt="GSSoC 2026" />
 
-<div align="center">
-
-<img src="./assets/gssoc-badges/ambassador.png" width="110" alt="Ambassador (rare)" />
-<br/>
-<sub><b>AMBASSADOR</b> · rare badge</sub>
-<br/><br/>
-<img src="./assets/gssoc-badges/first-steps.png" width="58" alt="First Steps" />
-<img src="./assets/gssoc-badges/discord-verified.png" width="58" alt="Discord Verified" />
-<img src="./assets/gssoc-badges/profile-complete.png" width="58" alt="Profile Complete" />
-<img src="./assets/gssoc-badges/point-scorer.png" width="58" alt="Point Scorer" />
-<img src="./assets/gssoc-badges/bounty-hunter.png" width="58" alt="Bounty Hunter" />
-<img src="./assets/gssoc-badges/contributor.png" width="58" alt="Contributor" />
-
-</div>
+<img src="./assets/readme/gssoc.svg" width="100%" alt="GSSoC 2026: Ambassador badge plus First Steps, Discord Verified, Profile Complete, Point Scorer, Bounty Hunter and Contributor" />
 
 <img src="./assets/readme/h-stats.svg" width="100%" alt="GitHub Activity" />
 
@@ -115,6 +75,6 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=goprocker&color=0b1020&style=flat-square&label=profile%20views" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=goprocker&color=7c5cf6&style=for-the-badge&label=PROFILE%20VIEWS" alt="Profile views" />
 
 </div>
