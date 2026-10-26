@@ -1,99 +1,121 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=180&section=header&text=Gopinath&fontSize=56&fontColor=e2e8f0&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20AI%20Engineer%20%C2%B7%20Co-Founder%20%40%20LoopFound&descSize=16&descAlignY=60&descAlign=50" width="100%" alt="Gopinath" />
+<img src="./assets/readme/hero.svg" width="100%" alt="Gopinath R — Full-Stack Developer, AI Engineer, Co-Founder at LoopFound" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=1200&color=70A5FD&center=true&vCenter=true&width=520&lines=Building+products+that+actually+ship;AI+agents+%C2%B7+web+platforms+%C2%B7+hackathons;1%2C000%2B+users+served+and+counting" alt="Typing intro" />
+<br/><br/>
 
-<p>
-  <a href="https://linkedin.com/in/gopinath2638"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://x.com/gopinath2368"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://www.instagram.com/goprocker_photography_/?hl=en"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="mailto:gopinath2638@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://loopfound.in"><img src="https://img.shields.io/badge/loopfound.in-0070f3?style=flat-square&logo=vercel&logoColor=white" alt="LoopFound" /></a>
-  <img src="https://komarev.com/ghpvc/?username=goprocker&color=70a5fd&style=flat-square&label=views" alt="Profile views" />
-</p>
+<a href="https://loopfound.in"><img src="https://img.shields.io/badge/loopfound.in-0b1020?style=for-the-badge&logo=vercel&logoColor=70a5fd" alt="LoopFound" /></a>
+<a href="https://linkedin.com/in/gopinath2638"><img src="https://img.shields.io/badge/LinkedIn-0b1020?style=for-the-badge&logo=linkedin&logoColor=70a5fd" alt="LinkedIn" /></a>
+<a href="https://x.com/gopinath2368"><img src="https://img.shields.io/badge/X-0b1020?style=for-the-badge&logo=x&logoColor=70a5fd" alt="X" /></a>
+<a href="https://www.instagram.com/goprocker_photography_/?hl=en"><img src="https://img.shields.io/badge/Instagram-0b1020?style=for-the-badge&logo=instagram&logoColor=70a5fd" alt="Instagram" /></a>
+<a href="mailto:gopinath2638@gmail.com"><img src="https://img.shields.io/badge/Email-0b1020?style=for-the-badge&logo=gmail&logoColor=70a5fd" alt="Email" /></a>
 
 </div>
 
-## Hi, I'm Gopinath 👋
+<br/>
 
-CS & AI Engineering student in **Chennai, India**, co-founder of **[LoopFound](https://loopfound.in)**, and a full-stack developer who likes shipping things people actually use.
+<img src="./assets/readme/h-about.svg" width="100%" alt="About" />
 
-- 🔭 Building client platforms at **LoopFound** and **P2PSkill**, a peer-to-peer skill exchange
-- 🤖 Exploring multi-agent AI systems, LLM tooling and computer vision
-- 🏆 GSSoC 2026 Ambassador and regular at hackathons
-- 📫 Open to collaborations, freelance work and interesting problems
+I'm a **CS & AI Engineering student** from Chennai who'd rather ship than talk about shipping. I co-founded **[LoopFound](https://loopfound.in)**, a web agency building production sites for real businesses. I also build AI tools, mostly multi-agent systems, at hackathons and in open source.
 
-## 🚀 Featured Work
-
-| Project | What it is | Stack |
-| --- | --- | --- |
-| **[LoopFound](https://loopfound.in)** | Web agency shipping fast, production-grade sites for real businesses | Next.js · TypeScript · Tailwind · Vercel |
-| **QR Attendance** | Campus attendance with sub-second scans and anti-replay tokens. Used by **1,000+** people | Node.js · MongoDB |
-| **P2PSkill** | Peer-to-peer skill exchange without monetary barriers | React · Express · MongoDB · Firebase |
-| **[ResponseSync](https://github.com/goprocker/ResponseSync)** | AI disaster-response platform with multi-agent coordination, built at Rush24Hour | TypeScript |
-| **[Orchestrix](https://github.com/goprocker/Orchestrix)** | Research intelligence platform where an orchestrator routes queries across specialised agents | TypeScript |
-
-<div align="center">
-
-<a href="https://github.com/goprocker/career-pilot"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=goprocker&repo=career-pilot&theme=tokyonight&hide_border=true" alt="career-pilot" /></a>
-<a href="https://github.com/goprocker/Digital-Horizon-Conclave-2026"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=goprocker&repo=Digital-Horizon-Conclave-2026&theme=tokyonight&hide_border=true" alt="Digital-Horizon-Conclave-2026" /></a>
-<a href="https://github.com/goprocker/Parallel_Realities"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=goprocker&repo=Parallel_Realities&theme=tokyonight&hide_border=true" alt="Parallel_Realities" /></a>
-<a href="https://github.com/goprocker/sathyabamaexpress"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=goprocker&repo=sathyabamaexpress&theme=tokyonight&hide_border=true" alt="sathyabamaexpress" /></a>
-
-</div>
-
-## 🏢 Organizations
-
-<table align="center">
+<table>
 <tr>
-<td align="center" width="140"><img src="./assets/orgs/loopfound.jpg" width="56" height="56" alt="LoopFound" /><br/><a href="https://github.com/LoopFound"><b>LoopFound</b></a><br/><sub>Co-Founder &amp; CMO · Lead Engineer</sub></td>
-<td align="center" width="140"><img src="./assets/orgs/aifoundry.jpg" width="56" height="56" alt="AI Foundry '29" /><br/><a href="https://github.com/AI-FOUNDARY-29"><b>AI Foundry '29</b></a><br/><sub>Founding Lead</sub></td>
-<td align="center" width="140"><img src="./assets/orgs/syncoai.png" width="56" height="56" alt="Synco AI" /><br/><a href="https://github.com/snycoai"><b>Synco AI</b></a><br/><sub>AI Engineer Intern</sub></td>
-<td align="center" width="140"><img src="./assets/orgs/dscsist.jpg" width="56" height="56" alt="DSC SIST" /><br/><a href="https://github.com/dscsist"><b>DSC SIST</b></a><br/><sub>Technical Team</sub></td>
-</tr>
-<tr>
-<td align="center" width="140"><img src="./assets/orgs/micorsogtclub.png" width="56" height="56" alt="Microsoft Club SIST" /><br/><a href="https://github.com/microsoftclubsist"><b>Microsoft Club SIST</b></a><br/><sub>Web &amp; App Developer</sub></td>
-<td align="center" width="140"><img src="./assets/orgs/redroxindustries.png" width="56" height="56" alt="Redrox Industries" /><br/><a href="https://github.com/Redrox-Industries"><b>Redrox Industries</b></a><br/><sub>Technical Team</sub></td>
-<td align="center" width="140"><a href="https://github.com/Rare-Atom"><b>Rare Atom</b></a><br/><sub>Frontend Developer<br/>WiCyS Sathyabama</sub></td>
-<td></td>
+<td width="50%" valign="top">
+
+**🔨 Building**
+- Client platforms at **LoopFound**
+- **P2PSkill**, a peer-to-peer skill exchange
+- AI agent tooling and orchestration
+
+</td>
+<td width="50%" valign="top">
+
+**🧠 Learning**
+- LLM agents and computer vision
+- Scalable backends and system design
+- DSA in Java and C++
+
+</td>
 </tr>
 </table>
 
-## 🛠 Tech Stack
+<img src="./assets/readme/h-work.svg" width="100%" alt="Featured Work" />
+
+<p align="center">
+  <a href="https://loopfound.in"><img src="./assets/readme/card-loopfound.svg" width="49%" alt="LoopFound" /></a>
+  <img src="./assets/readme/card-qr-attendance.svg" width="49%" alt="QR Attendance" />
+  <a href="https://github.com/goprocker/ResponseSync"><img src="./assets/readme/card-responsesync.svg" width="49%" alt="ResponseSync" /></a>
+  <a href="https://github.com/goprocker/Orchestrix"><img src="./assets/readme/card-orchestrix.svg" width="49%" alt="Orchestrix" /></a>
+  <a href="https://github.com/goprocker/career-pilot"><img src="./assets/readme/card-career-pilot.svg" width="49%" alt="Career Pilot" /></a>
+  <img src="./assets/readme/card-p2pskill.svg" width="49%" alt="P2PSkill" />
+</p>
+
+<p align="center"><sub>Also: <a href="https://github.com/goprocker/Digital-Horizon-Conclave-2026">Digital Horizon Conclave 2026</a> · <a href="https://github.com/goprocker/Parallel_Realities">Parallel Realities</a> · <a href="https://github.com/goprocker/sathyabamaexpress">Sathyabama Express</a> · <a href="https://github.com/goprocker/FitMart">FitMart</a></sub></p>
+
+<img src="./assets/readme/h-orgs.svg" width="100%" alt="Organizations" />
+
+<table align="center">
+<tr>
+<td align="center" width="150"><img src="./assets/orgs/loopfound.jpg" width="52" height="52" alt="" /><br/><a href="https://github.com/LoopFound"><b>LoopFound</b></a><br/><sub>Co-Founder &amp; CMO</sub></td>
+<td align="center" width="150"><img src="./assets/orgs/aifoundry.jpg" width="52" height="52" alt="" /><br/><a href="https://github.com/AI-FOUNDARY-29"><b>AI Foundry '29</b></a><br/><sub>Founding Lead</sub></td>
+<td align="center" width="150"><img src="./assets/orgs/syncoai.png" width="52" height="52" alt="" /><br/><a href="https://github.com/snycoai"><b>Synco AI</b></a><br/><sub>AI Engineer Intern</sub></td>
+<td align="center" width="150"><img src="./assets/orgs/dscsist.jpg" width="52" height="52" alt="" /><br/><a href="https://github.com/dscsist"><b>GDSC SIST</b></a><br/><sub>Technical Team</sub></td>
+</tr>
+<tr>
+<td align="center" width="150"><img src="./assets/orgs/micorsogtclub.png" width="52" height="52" alt="" /><br/><a href="https://github.com/microsoftclubsist"><b>Microsoft Club</b></a><br/><sub>Web &amp; App Dev</sub></td>
+<td align="center" width="150"><img src="./assets/orgs/redroxindustries.png" width="52" height="52" alt="" /><br/><a href="https://github.com/Redrox-Industries"><b>Redrox</b></a><br/><sub>Technical Team</sub></td>
+<td align="center" width="150"><a href="https://github.com/Rare-Atom"><b>Rare Atom</b></a><br/><sub>Frontend Dev<br/>WiCyS Sathyabama</sub></td>
+<td align="center" width="150"><a href="https://gssoc.girlscript.tech"><b>GSSoC '26</b></a><br/><sub>Ambassador</sub></td>
+</tr>
+</table>
+
+<img src="./assets/readme/h-stack.svg" width="100%" alt="Tech Stack" />
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,python,cpp,java,react,nextjs,astro,tailwind,nodejs,express&perline=11" alt="Languages and frameworks" />
+<img src="https://skillicons.dev/icons?i=ts,js,python,java,cpp,react,nextjs,astro,tailwind,nodejs,express&theme=dark&perline=11" alt="Languages and frameworks" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase,firebase,tensorflow,pytorch,opencv,vercel,cloudflare,git,figma&theme=dark&perline=11" alt="Data, AI and tooling" />
+
+</div>
+
+<img src="./assets/readme/h-gssoc.svg" width="100%" alt="GSSoC 2026" />
+
+<div align="center">
+
+<img src="./assets/gssoc-badges/ambassador.png" width="110" alt="Ambassador (rare)" />
 <br/>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase,firebase,tensorflow,pytorch,opencv,vercel,cloudflare,git,figma&perline=11" alt="Data, AI and tools" />
+<sub><b>AMBASSADOR</b> · rare badge</sub>
+<br/><br/>
+<img src="./assets/gssoc-badges/first-steps.png" width="58" alt="First Steps" />
+<img src="./assets/gssoc-badges/discord-verified.png" width="58" alt="Discord Verified" />
+<img src="./assets/gssoc-badges/profile-complete.png" width="58" alt="Profile Complete" />
+<img src="./assets/gssoc-badges/point-scorer.png" width="58" alt="Point Scorer" />
+<img src="./assets/gssoc-badges/bounty-hunter.png" width="58" alt="Bounty Hunter" />
+<img src="./assets/gssoc-badges/contributor.png" width="58" alt="Contributor" />
 
 </div>
 
-## 🏆 GSSoC 2026
+<img src="./assets/readme/h-stats.svg" width="100%" alt="GitHub Activity" />
 
 <div align="center">
 
-<img src="./assets/gssoc-badges/ambassador.png" width="100" alt="Ambassador (rare)" />
-&nbsp;
-<img src="./assets/gssoc-badges/first-steps.png" width="64" alt="First Steps" />
-<img src="./assets/gssoc-badges/discord-verified.png" width="64" alt="Discord Verified" />
-<img src="./assets/gssoc-badges/profile-complete.png" width="64" alt="Profile Complete" />
-<img src="./assets/gssoc-badges/point-scorer.png" width="64" alt="Point Scorer" />
-<img src="./assets/gssoc-badges/bounty-hunter.png" width="64" alt="Bounty Hunter" />
-<img src="./assets/gssoc-badges/contributor.png" width="64" alt="Contributor" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=goprocker&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0b1020&title_color=70a5fd&icon_color=a78bfa&text_color=c3cde6&rank_icon=github" height="170" alt="GitHub stats" />
+<img src="https://streak-stats.demolab.com/?user=goprocker&hide_border=true&background=0b1020&ring=70a5fd&fire=a78bfa&currStreakLabel=70a5fd&sideLabels=c3cde6&currStreakNum=e6edf3&sideNums=e6edf3&dates=8b98b8&stroke=1f2a48" height="170" alt="GitHub streak" />
 
-<sub><b>Ambassador</b> (rare) · plus 6 common badges</sub>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=goprocker&bg_color=0b1020&color=8b98b8&line=70a5fd&point=a78bfa&area=true&area_color=70a5fd&hide_border=true&radius=12" width="100%" alt="Contribution graph" />
 
 </div>
 
-## 📊 GitHub Stats
+<img src="./assets/readme/h-contact.svg" width="100%" alt="Let's Connect" />
 
 <div align="center">
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=goprocker&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="165" alt="GitHub stats" />
-<img src="https://streak-stats.demolab.com/?user=goprocker&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak" />
+Got a product to build, a hackathon team to fill, or an idea worth arguing about?<br/>
+**[gopinath2638@gmail.com](mailto:gopinath2638@gmail.com)** · **[loopfound.in](https://loopfound.in)**
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=goprocker&color=0b1020&style=flat-square&label=profile%20views" alt="Profile views" />
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0f172a&height=90&section=footer" width="100%" alt="" />

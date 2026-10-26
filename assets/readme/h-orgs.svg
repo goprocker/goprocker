@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="64" viewBox="0 0 1200 64" role="img" aria-label="Organizations">
+  <defs><linearGradient id="l" x1="0" x2="1"><stop offset="0" stop-color="#70a5fd" stop-opacity=".6"/><stop offset=".5" stop-color="#a78bfa" stop-opacity=".25"/><stop offset="1" stop-color="#a78bfa" stop-opacity="0"/></linearGradient></defs>
+  <text x="0" y="42" font-family="Consolas,'SF Mono',Menlo,monospace" font-size="16" font-weight="700" fill="#70a5fd">03</text>
+  <text x="34" y="43" font-family="'Segoe UI',Inter,-apple-system,Helvetica,Arial,sans-serif" font-size="28" font-weight="800" fill="#8b98b8" letter-spacing="-.3">Organizations</text>
+  <rect x="260" y="34" width="940" height="1.5" fill="url(#l)"/>
+</svg>

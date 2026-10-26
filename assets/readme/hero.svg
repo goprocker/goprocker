@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-label="Gopinath R. Full-stack developer, AI engineer, co-founder at LoopFound">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070b18"/>
+      <stop offset="1" stop-color="#0d1430"/>
+    </linearGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#e6edf3"/>
+      <stop offset="0.55" stop-color="#a5c4ff"/>
+      <stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+    <radialGradient id="orbA"><stop offset="0" stop-color="#3b6cf6" stop-opacity=".55"/><stop offset="1" stop-color="#3b6cf6" stop-opacity="0"/></radialGradient>
+    <radialGradient id="orbB"><stop offset="0" stop-color="#8b5cf6" stop-opacity=".45"/><stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/></radialGradient>
+    <radialGradient id="orbC"><stop offset="0" stop-color="#22d3ee" stop-opacity=".25"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity=".035"/>
+    </pattern>
+    <clipPath id="card"><rect width="1200" height="380" rx="20"/></clipPath>
+    <style>
+      .sans{font-family:'Segoe UI',Inter,-apple-system,Helvetica,Arial,sans-serif}
+      .mono{font-family:Consolas,'SF Mono',Menlo,'DejaVu Sans Mono',monospace}
+      .float1{animation:f1 14s ease-in-out infinite}
+      .float2{animation:f2 18s ease-in-out infinite}
+      @keyframes f1{0%,100%{transform:translate(0,0)}50%{transform:translate(60px,30px)}}
+      @keyframes f2{0%,100%{transform:translate(0,0)}50%{transform:translate(-70px,-20px)}}
+      .ln{animation:show .5s ease-out backwards}
+      .l1{animation-delay:.4s}.l2{animation-delay:1.1s}.l3{animation-delay:1.8s}.l4{animation-delay:2.5s}.l5{animation-delay:3.2s}.l6{animation-delay:3.9s}.l7{animation-delay:4.6s}
+      @keyframes show{from{opacity:0;transform:translateX(-6px)}}
+      .cur{animation:blink 1s steps(1) infinite}
+      @keyframes blink{50%{opacity:0}}
+      .dot{animation:pulse 2s ease-in-out infinite}
+      @keyframes pulse{0%,100%{opacity:1}50%{opacity:.35}}
+    </style>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <rect width="1200" height="380" fill="url(#bg)"/>
+    <rect width="1200" height="380" fill="url(#grid)"/>
+    <circle class="float1" cx="180" cy="40" r="260" fill="url(#orbA)"/>
+    <circle class="float2" cx="980" cy="360" r="300" fill="url(#orbB)"/>
+    <circle class="float1" cx="700" cy="20" r="180" fill="url(#orbC)"/>
+  </g>
+  <rect x=".5" y=".5" width="1199" height="379" rx="20" fill="none" stroke="#ffffff" stroke-opacity=".08"/>
+
+  <!-- left: identity -->
+  <g class="sans">
+    <rect x="64" y="64" width="232" height="30" rx="15" fill="#34d399" fill-opacity=".1" stroke="#34d399" stroke-opacity=".35"/>
+    <circle class="dot" cx="84" cy="79" r="5" fill="#34d399"/>
+    <text x="98" y="84" font-size="14" fill="#a7f3d0" font-weight="600">Open to collaborations</text>
+
+    <text x="62" y="170" font-size="78" font-weight="800" fill="url(#name)" letter-spacing="-2">Gopinath R</text>
+    <text x="64" y="212" font-size="22" fill="#c3cde6" font-weight="500">Full-Stack Developer · AI Engineer</text>
+    <text x="64" y="244" font-size="17" fill="#8b98b8">Co-Founder @ LoopFound — shipping products from Chennai, India</text>
+
+    <g font-size="14" font-weight="600">
+      <rect x="64" y="284" width="126" height="34" rx="9" fill="#70a5fd" fill-opacity=".12" stroke="#70a5fd" stroke-opacity=".35"/>
+      <text x="127" y="306" text-anchor="middle" fill="#bcd3ff">1,000+ users</text>
+      <rect x="202" y="284" width="150" height="34" rx="9" fill="#a78bfa" fill-opacity=".12" stroke="#a78bfa" stroke-opacity=".35"/>
+      <text x="277" y="306" text-anchor="middle" fill="#d9ccff">Multi-agent AI</text>
+      <rect x="364" y="284" width="170" height="34" rx="9" fill="#fb923c" fill-opacity=".12" stroke="#fb923c" stroke-opacity=".35"/>
+      <text x="449" y="306" text-anchor="middle" fill="#fed7aa">GSSoC '26 Ambassador</text>
+    </g>
+  </g>
+
+  <!-- right: terminal -->
+  <g transform="translate(680 52)">
+    <rect width="460" height="276" rx="14" fill="#0a0f1f" fill-opacity=".88" stroke="#ffffff" stroke-opacity=".1"/>
+    <path d="M14 0h432a14 14 0 0 1 14 14v24H0V14A14 14 0 0 1 14 0z" fill="#ffffff" fill-opacity=".04"/>
+    <circle cx="22" cy="19" r="6" fill="#ff5f57"/><circle cx="42" cy="19" r="6" fill="#febc2e"/><circle cx="62" cy="19" r="6" fill="#28c840"/>
+    <text x="230" y="24" text-anchor="middle" class="mono" font-size="12" fill="#5b6785">~/goprocker — zsh</text>
+
+    <g class="mono" font-size="15">
+      <text class="ln l1" x="22" y="72"><tspan fill="#34d399">❯</tspan><tspan fill="#e6edf3"> whoami</tspan></text>
+      <text class="ln l2" x="22" y="98" fill="#8b98b8">cs + ai engineering student · founder</text>
+      <text class="ln l3" x="22" y="132"><tspan fill="#34d399">❯</tspan><tspan fill="#e6edf3"> cat now.txt</tspan></text>
+      <text class="ln l4" x="22" y="158"><tspan fill="#70a5fd">building </tspan><tspan fill="#c3cde6">LoopFound · P2PSkill</tspan></text>
+      <text class="ln l5" x="22" y="184"><tspan fill="#a78bfa">learning </tspan><tspan fill="#c3cde6">LLM agents · CV · systems</tspan></text>
+      <text class="ln l6" x="22" y="210"><tspan fill="#fb923c">stack    </tspan><tspan fill="#c3cde6">TS · Next.js · Node · Python</tspan></text>
+      <text class="ln l7" x="22" y="244"><tspan fill="#34d399">❯</tspan><tspan class="cur" fill="#e6edf3"> ▍</tspan></text>
+    </g>
+  </g>
+</svg>
