@@ -9,7 +9,7 @@
     <rect width="180.66666666666666" height="108" rx="12" fill="#ffffff" fill-opacity=".035" stroke="#ffffff" stroke-opacity=".08"/>
     <rect x="16" y="0" width="32" height="3" rx="1.5" fill="#70a5fd"/>
     <text x="16" y="32" font-family="'Segoe UI',Inter,-apple-system,Helvetica,Arial,sans-serif" font-size="12.5" font-weight="600" fill="#8b98b8" letter-spacing=".6">CONTRIBUTIONS</text>
-    <text x="16" y="72" font-family="'Segoe UI',Inter,-apple-system,Helvetica,Arial,sans-serif" font-size="32" font-weight="800" fill="#e6edf3">1,134</text>
+    <text x="16" y="72" font-family="'Segoe UI',Inter,-apple-system,Helvetica,Arial,sans-serif" font-size="32" font-weight="800" fill="#e6edf3">1,136</text>
     <text x="16" y="94" font-family="'Segoe UI',Inter,-apple-system,Helvetica,Arial,sans-serif" font-size="12.5" fill="#70a5fd">past year</text>
   </g>
   <g transform="translate(220.66666666666666 28)">
@@ -30,7 +30,7 @@
     <rect width="180.66666666666666" height="108" rx="12" fill="#ffffff" fill-opacity=".035" stroke="#ffffff" stroke-opacity=".08"/>
     <rect x="16" y="0" width="32" height="3" rx="1.5" fill="#fb923c"/>
     <text x="16" y="32" font-family="'Segoe UI',Inter,-apple-system,Helvetica,Arial,sans-serif" font-size="12.5" font-weight="600" fill="#8b98b8" letter-spacing=".6">COMMITS</text>
-    <text x="16" y="72" font-family="'Segoe UI',Inter,-apple-system,Helvetica,Arial,sans-serif" font-size="32" font-weight="800" fill="#e6edf3">1,019</text>
+    <text x="16" y="72" font-family="'Segoe UI',Inter,-apple-system,Helvetica,Arial,sans-serif" font-size="32" font-weight="800" fill="#e6edf3">1,021</text>
     <text x="16" y="94" font-family="'Segoe UI',Inter,-apple-system,Helvetica,Arial,sans-serif" font-size="12.5" fill="#fb923c">incl. private</text>
   </g>
   <g transform="translate(798.6666666666666 28)">
@@ -44,7 +44,7 @@
     <rect width="180.66666666666666" height="108" rx="12" fill="#ffffff" fill-opacity=".035" stroke="#ffffff" stroke-opacity=".08"/>
     <rect x="16" y="0" width="32" height="3" rx="1.5" fill="#f472b6"/>
     <text x="16" y="32" font-family="'Segoe UI',Inter,-apple-system,Helvetica,Arial,sans-serif" font-size="12.5" font-weight="600" fill="#8b98b8" letter-spacing=".6">REPOS · STARS</text>
-    <text x="16" y="72" font-family="'Segoe UI',Inter,-apple-system,Helvetica,Arial,sans-serif" font-size="32" font-weight="800" fill="#e6edf3">30 · 2</text>
+    <text x="16" y="72" font-family="'Segoe UI',Inter,-apple-system,Helvetica,Arial,sans-serif" font-size="32" font-weight="800" fill="#e6edf3">22 · 2</text>
     <text x="16" y="94" font-family="'Segoe UI',Inter,-apple-system,Helvetica,Arial,sans-serif" font-size="12.5" fill="#f472b6">public</text>
   </g>
   <text x="46.0" y="176" font-family="'Segoe UI',Inter,-apple-system,Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#c3cde6">Contribution calendar</text>
@@ -204,8 +204,8 @@
   <rect x="487.0" y="196" width="16" height="16" rx="4" fill="#1e3a8a"><title>2026-03-22: 2</title></rect>
   <rect x="487.0" y="217" width="16" height="16" rx="4" fill="#3b6cf6"><title>2026-03-23: 10</title></rect>
   <rect x="487.0" y="238" width="16" height="16" rx="4" fill="#3b6cf6"><title>2026-03-24: 7</title></rect>
-  <rect x="487.0" y="259" width="16" height="16" rx="4" fill="#c4b5fd"><title>2026-03-25: 42</title></rect>
-  <rect x="487.0" y="280" width="16" height="16" rx="4" fill="#c4b5fd"><title>2026-03-26: 21</title></rect>
+  <rect x="487.0" y="259" width="16" height="16" rx="4" fill="#c4b5fd"><title>2026-03-25: 43</title></rect>
+  <rect x="487.0" y="280" width="16" height="16" rx="4" fill="#c4b5fd"><title>2026-03-26: 20</title></rect>
   <rect x="487.0" y="301" width="16" height="16" rx="4" fill="#c4b5fd"><title>2026-03-27: 18</title></rect>
   <rect x="487.0" y="322" width="16" height="16" rx="4" fill="#c4b5fd"><title>2026-03-28: 21</title></rect>
   <rect x="508.0" y="196" width="16" height="16" rx="4" fill="#3b6cf6"><title>2026-03-29: 6</title></rect>
@@ -273,8 +273,8 @@
   <rect x="676.0" y="280" width="16" height="16" rx="4" fill="#151d38"><title>2026-05-28: 0</title></rect>
   <rect x="676.0" y="301" width="16" height="16" rx="4" fill="#1e3a8a"><title>2026-05-29: 1</title></rect>
   <rect x="676.0" y="322" width="16" height="16" rx="4" fill="#151d38"><title>2026-05-30: 0</title></rect>
-  <rect x="697.0" y="196" width="16" height="16" rx="4" fill="#151d38"><title>2026-05-31: 0</title></rect>
-  <rect x="697.0" y="217" width="16" height="16" rx="4" fill="#3b6cf6"><title>2026-06-01: 7</title></rect>
+  <rect x="697.0" y="196" width="16" height="16" rx="4" fill="#1e3a8a"><title>2026-05-31: 1</title></rect>
+  <rect x="697.0" y="217" width="16" height="16" rx="4" fill="#3b6cf6"><title>2026-06-01: 6</title></rect>
   <rect x="697.0" y="238" width="16" height="16" rx="4" fill="#151d38"><title>2026-06-02: 0</title></rect>
   <rect x="697.0" y="259" width="16" height="16" rx="4" fill="#1e3a8a"><title>2026-06-03: 1</title></rect>
   <rect x="697.0" y="280" width="16" height="16" rx="4" fill="#1e3a8a"><title>2026-06-04: 1</title></rect>
@@ -379,8 +379,8 @@
   <rect x="991.0" y="217" width="16" height="16" rx="4" fill="#c4b5fd"><title>2026-09-07: 20</title></rect>
   <rect x="991.0" y="238" width="16" height="16" rx="4" fill="#3b6cf6"><title>2026-09-08: 11</title></rect>
   <rect x="991.0" y="259" width="16" height="16" rx="4" fill="#70a5fd"><title>2026-09-09: 16</title></rect>
-  <rect x="991.0" y="280" width="16" height="16" rx="4" fill="#1e3a8a"><title>2026-09-10: 1</title></rect>
-  <rect x="991.0" y="301" width="16" height="16" rx="4" fill="#c4b5fd"><title>2026-09-11: 25</title></rect>
+  <rect x="991.0" y="280" width="16" height="16" rx="4" fill="#1e3a8a"><title>2026-09-10: 2</title></rect>
+  <rect x="991.0" y="301" width="16" height="16" rx="4" fill="#c4b5fd"><title>2026-09-11: 24</title></rect>
   <rect x="991.0" y="322" width="16" height="16" rx="4" fill="#1e3a8a"><title>2026-09-12: 5</title></rect>
   <rect x="1012.0" y="196" width="16" height="16" rx="4" fill="#3b6cf6"><title>2026-09-13: 9</title></rect>
   <rect x="1012.0" y="217" width="16" height="16" rx="4" fill="#1e3a8a"><title>2026-09-14: 3</title></rect>
@@ -426,7 +426,7 @@
   <rect x="1117.0" y="301" width="16" height="16" rx="4" fill="#c4b5fd"><title>2026-10-23: 32</title></rect>
   <rect x="1117.0" y="322" width="16" height="16" rx="4" fill="#1e3a8a"><title>2026-10-24: 1</title></rect>
   <rect x="1138.0" y="196" width="16" height="16" rx="4" fill="#c4b5fd"><title>2026-10-25: 17</title></rect>
-  <rect x="1138.0" y="217" width="16" height="16" rx="4" fill="#c4b5fd"><title>2026-10-26: 27</title></rect>
+  <rect x="1138.0" y="217" width="16" height="16" rx="4" fill="#c4b5fd"><title>2026-10-26: 29</title></rect>
   <text x="1004" y="176" text-anchor="end" font-family="'Segoe UI',Inter,-apple-system,Helvetica,Arial,sans-serif" font-size="12" fill="#5b6785">Less</text>
   <rect x="1012" y="165" width="13" height="13" rx="3" fill="#151d38"/>
   <rect x="1030" y="165" width="13" height="13" rx="3" fill="#1e3a8a"/>
