@@ -1,14 +1,10 @@
-<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
-
 <div align="center">
 
-<br/>
+<img alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="DARKMODE.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="DARKMODE.svg" />
-  <img alt="goprocker's GitHub profile" src="DARKMODE.svg" width="100%" />
-</picture>
+<br/><br/>
+
+<img alt="goprocker's GitHub profile" src="DARKMODE.svg" width="100%" />
 
 <br/>
 
@@ -184,15 +180,17 @@ LEARNING ───────────────────────�
 
 <table width="100%">
 <tr>
-<td width="25%" colspan="3" align="center" valign="top"><img src="./assets/orgs/dscsist.jpg" width="64" height="64" alt="DSC SIST logo" /><br/><a href="https://github.com/dscsist" target="_blank" rel="noopener noreferrer"><strong>DSC SIST</strong></a><br/>Technical Team Member<br/><sub>Google Developer Student Club, Sathyabama</sub></td>
-<td width="25%" colspan="3" align="center" valign="top"><img src="./assets/orgs/loopfound.jpg" width="64" height="64" alt="LoopFound logo" /><br/><a href="https://github.com/LoopFound" target="_blank" rel="noopener noreferrer"><strong>LoopFound</strong></a><br/>Co-Founder &amp; CMO | Lead Engineer</td>
-<td width="25%" colspan="3" align="center" valign="top"><img src="./assets/orgs/micorsogtclub.png" width="64" height="64" alt="Microsoft Club SIST logo" /><br/><a href="https://github.com/microsoftclubsist" target="_blank" rel="noopener noreferrer"><strong>Microsoft Club SIST</strong></a><br/>Web &amp; App Developer<br/><sub>Microsoft Club Sathyabama</sub></td>
-<td width="25%" colspan="3" align="center" valign="top"><a href="https://github.com/Rare-Atom" target="_blank" rel="noopener noreferrer"><strong>Rare Atom</strong></a><br/>Frontend Developer &amp; Technical Team Member<br/><sub>WiCyS Sathyabama</sub></td>
+<td width="33%" align="center" valign="top"><img src="./assets/orgs/dscsist.jpg" width="64" height="64" alt="DSC SIST logo" /><br/><a href="https://github.com/dscsist"><strong>DSC SIST</strong></a><br/>Technical Team Member<br/><sub>Google Developer Student Club, Sathyabama</sub></td>
+<td width="33%" align="center" valign="top"><img src="./assets/orgs/loopfound.jpg" width="64" height="64" alt="LoopFound logo" /><br/><a href="https://github.com/LoopFound"><strong>LoopFound</strong></a><br/>Co-Founder &amp; CMO | Lead Engineer</td>
+<td width="33%" align="center" valign="top"><img src="./assets/orgs/micorsogtclub.png" width="64" height="64" alt="Microsoft Club SIST logo" /><br/><a href="https://github.com/microsoftclubsist"><strong>Microsoft Club SIST</strong></a><br/>Web &amp; App Developer<br/><sub>Microsoft Club Sathyabama</sub></td>
 </tr>
 <tr>
-<td width="33%" colspan="4" align="center" valign="top"><img src="./assets/orgs/redroxindustries.png" width="64" height="64" alt="Redrox Industries logo" /><br/><a href="https://github.com/Redrox-Industries" target="_blank" rel="noopener noreferrer"><strong>Redrox Industries</strong></a><br/>Technical Team Member</td>
-<td width="33%" colspan="4" align="center" valign="top"><img src="./assets/orgs/syncoai.png" width="64" height="64" alt="Synco AI logo" /><br/><a href="https://github.com/snycoai" target="_blank" rel="noopener noreferrer"><strong>Synco AI</strong></a><br/>AI Engineer Intern</td>
-<td width="34%" colspan="4" align="center" valign="top"><img src="./assets/orgs/aifoundry.jpg" width="64" height="64" alt="AI Foundry '29 logo" /><br/><a href="https://github.com/AI-FOUNDARY-29" target="_blank" rel="noopener noreferrer"><strong>AI Foundry '29</strong></a><br/>Founding Lead</td>
+<td width="33%" align="center" valign="top"><a href="https://github.com/Rare-Atom"><strong>Rare Atom</strong></a><br/>Frontend Developer &amp; Technical Team Member<br/><sub>WiCyS Sathyabama</sub></td>
+<td width="33%" align="center" valign="top"><img src="./assets/orgs/redroxindustries.png" width="64" height="64" alt="Redrox Industries logo" /><br/><a href="https://github.com/Redrox-Industries"><strong>Redrox Industries</strong></a><br/>Technical Team Member</td>
+<td width="33%" align="center" valign="top"><img src="./assets/orgs/syncoai.png" width="64" height="64" alt="Synco AI logo" /><br/><a href="https://github.com/snycoai"><strong>Synco AI</strong></a><br/>AI Engineer Intern</td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top"><img src="./assets/orgs/aifoundry.jpg" width="64" height="64" alt="AI Foundry '29 logo" /><br/><a href="https://github.com/AI-FOUNDARY-29"><strong>AI Foundry '29</strong></a><br/>Founding Lead</td>
 </tr>
 </table>
 
@@ -275,7 +273,7 @@ LEARNING ───────────────────────�
 
 ---
 
-## GSSoC 2026 Achievements
+## 🏆 GSSoC 2026 Achievements
 
 <div align="center">
 
@@ -300,6 +298,7 @@ LEARNING ───────────────────────�
 <img src="./assets/gssoc-badges/profile-complete.png" width="85" alt="GSSoC 2026 Profile Complete Badge" />
 <img src="./assets/gssoc-badges/point-scorer.png" width="85" alt="GSSoC 2026 Point Scorer Badge" />
 <img src="./assets/gssoc-badges/bounty-hunter.png" width="85" alt="GSSoC 2026 Bounty Hunter Badge" />
+<img src="./assets/gssoc-badges/contributor.png" width="85" alt="GSSoC 2026 Contributor Badge" />
 <!-- Add Code Warrior when its official image is available:
 <img src="./assets/gssoc-badges/code-warrior.png" width="85" alt="GSSoC 2026 Code Warrior Badge" />
 -->
@@ -330,7 +329,23 @@ LEARNING ───────────────────────�
 
 </div>
 
-## 💭
+---
+
+## 📬 Contact
+
+<div align="center">
+
+Open to collaborations, freelance projects, and interesting problems.
+
+<a href="mailto:gopinath2638@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
+<a href="https://linkedin.com/in/gopinath2638"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+<a href="https://loopfound.in"><img src="https://img.shields.io/badge/LoopFound.in-0070f3?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+
+</div>
+
+---
+
+## 💭 Words to Build By
 
 <div align="center">
 
