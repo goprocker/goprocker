@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/readme/hero-portrait.svg" width="100%" alt="Gopinath R — Full-Stack Developer, AI Engineer, Co-Founder at LoopFound" />
+<img src="./assets/readme/hero-ascii.svg" width="100%" alt="Gopinath R — Full-Stack Developer, AI Engineer, Co-Founder at LoopFound" />
 
 <br/><br/>
 
