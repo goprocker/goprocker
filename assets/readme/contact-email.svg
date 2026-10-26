@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="280" height="150" viewBox="0 0 280 150" role="img" aria-label="Email: gopinath2638@gmail.com">
+  <defs><radialGradient id="o" cx="1" cy="0" r="1"><stop offset="0" stop-color="#f87171" stop-opacity=".22"/><stop offset=".6" stop-color="#f87171" stop-opacity="0"/></radialGradient></defs>
+  <rect x=".5" y=".5" width="279" height="149" rx="16" fill="#0b1020" stroke="#ffffff" stroke-opacity=".09"/>
+  <rect x=".5" y=".5" width="279" height="149" rx="16" fill="url(#o)"/>
+  <rect x="22" y="22" width="44" height="44" rx="12" fill="#f87171" fill-opacity=".14" stroke="#f87171" stroke-opacity=".45"/>
+  <text x="44" y="50" text-anchor="middle" font-family="'Segoe UI',Inter,-apple-system,Helvetica,Arial,sans-serif" font-size="18" font-weight="800" fill="#f87171">@</text>
+  <text x="256" y="52" text-anchor="end" font-family="'Segoe UI',Inter,-apple-system,Helvetica,Arial,sans-serif" font-size="20" fill="#f87171">↗</text>
+  <text x="22" y="102" font-family="'Segoe UI',Inter,-apple-system,Helvetica,Arial,sans-serif" font-size="20" font-weight="800" fill="#e6edf3">Email</text>
+  <text x="22" y="126" font-family="Consolas,'SF Mono',Menlo,monospace" font-size="12.5" fill="#8b98b8">gopinath2638@gmail.com</text>
+</svg>

@@ -1,0 +1,438 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-label="GitHub activity for goprocker">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d1430"/><stop offset="1" stop-color="#080c1a"/></linearGradient>
+    <radialGradient id="o" cx="0" cy="0" r="1"><stop offset="0" stop-color="#3b6cf6" stop-opacity=".22"/><stop offset=".55" stop-color="#3b6cf6" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect x=".5" y=".5" width="1199" height="419" rx="18" fill="url(#g)" stroke="#ffffff" stroke-opacity=".09"/>
+  <rect x=".5" y=".5" width="1199" height="419" rx="18" fill="url(#o)"/>
+  <g transform="translate(28.0 28)">
+    <rect width="180.66666666666666" height="108" rx="12" fill="#ffffff" fill-opacity=".035" stroke="#ffffff" stroke-opacity=".08"/>
+    <rect x="16" y="0" width="32" height="3" rx="1.5" fill="#70a5fd"/>
+    <text x="16" y="32" font-family="'Segoe UI',Inter,-apple-system,Helvetica,Arial,sans-serif" font-size="12.5" font-weight="600" fill="#8b98b8" letter-spacing=".6">CONTRIBUTIONS</text>
+    <text x="16" y="72" font-family="'Segoe UI',Inter,-apple-system,Helvetica,Arial,sans-serif" font-size="32" font-weight="800" fill="#e6edf3">1,134</text>
+    <text x="16" y="94" font-family="'Segoe UI',Inter,-apple-system,Helvetica,Arial,sans-serif" font-size="12.5" fill="#70a5fd">past year</text>
+  </g>
+  <g transform="translate(220.66666666666666 28)">
+    <rect width="180.66666666666666" height="108" rx="12" fill="#ffffff" fill-opacity=".035" stroke="#ffffff" stroke-opacity=".08"/>
+    <rect x="16" y="0" width="32" height="3" rx="1.5" fill="#34d399"/>
+    <text x="16" y="32" font-family="'Segoe UI',Inter,-apple-system,Helvetica,Arial,sans-serif" font-size="12.5" font-weight="600" fill="#8b98b8" letter-spacing=".6">CURRENT STREAK</text>
+    <text x="16" y="72" font-family="'Segoe UI',Inter,-apple-system,Helvetica,Arial,sans-serif" font-size="32" font-weight="800" fill="#e6edf3">66</text>
+    <text x="16" y="94" font-family="'Segoe UI',Inter,-apple-system,Helvetica,Arial,sans-serif" font-size="12.5" fill="#34d399">days</text>
+  </g>
+  <g transform="translate(413.3333333333333 28)">
+    <rect width="180.66666666666666" height="108" rx="12" fill="#ffffff" fill-opacity=".035" stroke="#ffffff" stroke-opacity=".08"/>
+    <rect x="16" y="0" width="32" height="3" rx="1.5" fill="#a78bfa"/>
+    <text x="16" y="32" font-family="'Segoe UI',Inter,-apple-system,Helvetica,Arial,sans-serif" font-size="12.5" font-weight="600" fill="#8b98b8" letter-spacing=".6">LONGEST STREAK</text>
+    <text x="16" y="72" font-family="'Segoe UI',Inter,-apple-system,Helvetica,Arial,sans-serif" font-size="32" font-weight="800" fill="#e6edf3">66</text>
+    <text x="16" y="94" font-family="'Segoe UI',Inter,-apple-system,Helvetica,Arial,sans-serif" font-size="12.5" fill="#a78bfa">days</text>
+  </g>
+  <g transform="translate(606.0 28)">
+    <rect width="180.66666666666666" height="108" rx="12" fill="#ffffff" fill-opacity=".035" stroke="#ffffff" stroke-opacity=".08"/>
+    <rect x="16" y="0" width="32" height="3" rx="1.5" fill="#fb923c"/>
+    <text x="16" y="32" font-family="'Segoe UI',Inter,-apple-system,Helvetica,Arial,sans-serif" font-size="12.5" font-weight="600" fill="#8b98b8" letter-spacing=".6">COMMITS</text>
+    <text x="16" y="72" font-family="'Segoe UI',Inter,-apple-system,Helvetica,Arial,sans-serif" font-size="32" font-weight="800" fill="#e6edf3">1,019</text>
+    <text x="16" y="94" font-family="'Segoe UI',Inter,-apple-system,Helvetica,Arial,sans-serif" font-size="12.5" fill="#fb923c">incl. private</text>
+  </g>
+  <g transform="translate(798.6666666666666 28)">
+    <rect width="180.66666666666666" height="108" rx="12" fill="#ffffff" fill-opacity=".035" stroke="#ffffff" stroke-opacity=".08"/>
+    <rect x="16" y="0" width="32" height="3" rx="1.5" fill="#22d3ee"/>
+    <text x="16" y="32" font-family="'Segoe UI',Inter,-apple-system,Helvetica,Arial,sans-serif" font-size="12.5" font-weight="600" fill="#8b98b8" letter-spacing=".6">PULL REQUESTS</text>
+    <text x="16" y="72" font-family="'Segoe UI',Inter,-apple-system,Helvetica,Arial,sans-serif" font-size="32" font-weight="800" fill="#e6edf3">64</text>
+    <text x="16" y="94" font-family="'Segoe UI',Inter,-apple-system,Helvetica,Arial,sans-serif" font-size="12.5" fill="#22d3ee">past year</text>
+  </g>
+  <g transform="translate(991.3333333333333 28)">
+    <rect width="180.66666666666666" height="108" rx="12" fill="#ffffff" fill-opacity=".035" stroke="#ffffff" stroke-opacity=".08"/>
+    <rect x="16" y="0" width="32" height="3" rx="1.5" fill="#f472b6"/>
+    <text x="16" y="32" font-family="'Segoe UI',Inter,-apple-system,Helvetica,Arial,sans-serif" font-size="12.5" font-weight="600" fill="#8b98b8" letter-spacing=".6">REPOS · STARS</text>
+    <text x="16" y="72" font-family="'Segoe UI',Inter,-apple-system,Helvetica,Arial,sans-serif" font-size="32" font-weight="800" fill="#e6edf3">30 · 2</text>
+    <text x="16" y="94" font-family="'Segoe UI',Inter,-apple-system,Helvetica,Arial,sans-serif" font-size="12.5" fill="#f472b6">public</text>
+  </g>
+  <text x="46.0" y="176" font-family="'Segoe UI',Inter,-apple-system,Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#c3cde6">Contribution calendar</text>
+  <text x="46.0" y="359" font-family="Consolas,'SF Mono',Menlo,monospace" font-size="11" fill="#5b6785">Oct</text>
+  <rect x="46.0" y="196" width="16" height="16" rx="4" fill="#151d38"><title>2025-10-26: 0</title></rect>
+  <rect x="46.0" y="217" width="16" height="16" rx="4" fill="#151d38"><title>2025-10-27: 0</title></rect>
+  <rect x="46.0" y="238" width="16" height="16" rx="4" fill="#151d38"><title>2025-10-28: 0</title></rect>
+  <rect x="46.0" y="259" width="16" height="16" rx="4" fill="#151d38"><title>2025-10-29: 0</title></rect>
+  <rect x="46.0" y="280" width="16" height="16" rx="4" fill="#151d38"><title>2025-10-30: 0</title></rect>
+  <rect x="46.0" y="301" width="16" height="16" rx="4" fill="#151d38"><title>2025-10-31: 0</title></rect>
+  <rect x="46.0" y="322" width="16" height="16" rx="4" fill="#151d38"><title>2025-11-01: 0</title></rect>
+  <rect x="67.0" y="196" width="16" height="16" rx="4" fill="#151d38"><title>2025-11-02: 0</title></rect>
+  <rect x="67.0" y="217" width="16" height="16" rx="4" fill="#151d38"><title>2025-11-03: 0</title></rect>
+  <rect x="67.0" y="238" width="16" height="16" rx="4" fill="#151d38"><title>2025-11-04: 0</title></rect>
+  <rect x="67.0" y="259" width="16" height="16" rx="4" fill="#151d38"><title>2025-11-05: 0</title></rect>
+  <rect x="67.0" y="280" width="16" height="16" rx="4" fill="#151d38"><title>2025-11-06: 0</title></rect>
+  <rect x="67.0" y="301" width="16" height="16" rx="4" fill="#151d38"><title>2025-11-07: 0</title></rect>
+  <rect x="67.0" y="322" width="16" height="16" rx="4" fill="#151d38"><title>2025-11-08: 0</title></rect>
+  <rect x="88.0" y="196" width="16" height="16" rx="4" fill="#151d38"><title>2025-11-09: 0</title></rect>
+  <rect x="88.0" y="217" width="16" height="16" rx="4" fill="#151d38"><title>2025-11-10: 0</title></rect>
+  <rect x="88.0" y="238" width="16" height="16" rx="4" fill="#151d38"><title>2025-11-11: 0</title></rect>
+  <rect x="88.0" y="259" width="16" height="16" rx="4" fill="#151d38"><title>2025-11-12: 0</title></rect>
+  <rect x="88.0" y="280" width="16" height="16" rx="4" fill="#151d38"><title>2025-11-13: 0</title></rect>
+  <rect x="88.0" y="301" width="16" height="16" rx="4" fill="#151d38"><title>2025-11-14: 0</title></rect>
+  <rect x="88.0" y="322" width="16" height="16" rx="4" fill="#151d38"><title>2025-11-15: 0</title></rect>
+  <text x="109.0" y="359" font-family="Consolas,'SF Mono',Menlo,monospace" font-size="11" fill="#5b6785">Nov</text>
+  <rect x="109.0" y="196" width="16" height="16" rx="4" fill="#151d38"><title>2025-11-16: 0</title></rect>
+  <rect x="109.0" y="217" width="16" height="16" rx="4" fill="#151d38"><title>2025-11-17: 0</title></rect>
+  <rect x="109.0" y="238" width="16" height="16" rx="4" fill="#151d38"><title>2025-11-18: 0</title></rect>
+  <rect x="109.0" y="259" width="16" height="16" rx="4" fill="#151d38"><title>2025-11-19: 0</title></rect>
+  <rect x="109.0" y="280" width="16" height="16" rx="4" fill="#151d38"><title>2025-11-20: 0</title></rect>
+  <rect x="109.0" y="301" width="16" height="16" rx="4" fill="#151d38"><title>2025-11-21: 0</title></rect>
+  <rect x="109.0" y="322" width="16" height="16" rx="4" fill="#151d38"><title>2025-11-22: 0</title></rect>
+  <rect x="130.0" y="196" width="16" height="16" rx="4" fill="#1e3a8a"><title>2025-11-23: 3</title></rect>
+  <rect x="130.0" y="217" width="16" height="16" rx="4" fill="#3b6cf6"><title>2025-11-24: 6</title></rect>
+  <rect x="130.0" y="238" width="16" height="16" rx="4" fill="#151d38"><title>2025-11-25: 0</title></rect>
+  <rect x="130.0" y="259" width="16" height="16" rx="4" fill="#151d38"><title>2025-11-26: 0</title></rect>
+  <rect x="130.0" y="280" width="16" height="16" rx="4" fill="#151d38"><title>2025-11-27: 0</title></rect>
+  <rect x="130.0" y="301" width="16" height="16" rx="4" fill="#1e3a8a"><title>2025-11-28: 1</title></rect>
+  <rect x="130.0" y="322" width="16" height="16" rx="4" fill="#1e3a8a"><title>2025-11-29: 1</title></rect>
+  <rect x="151.0" y="196" width="16" height="16" rx="4" fill="#151d38"><title>2025-11-30: 0</title></rect>
+  <rect x="151.0" y="217" width="16" height="16" rx="4" fill="#151d38"><title>2025-12-01: 0</title></rect>
+  <rect x="151.0" y="238" width="16" height="16" rx="4" fill="#151d38"><title>2025-12-02: 0</title></rect>
+  <rect x="151.0" y="259" width="16" height="16" rx="4" fill="#151d38"><title>2025-12-03: 0</title></rect>
+  <rect x="151.0" y="280" width="16" height="16" rx="4" fill="#151d38"><title>2025-12-04: 0</title></rect>
+  <rect x="151.0" y="301" width="16" height="16" rx="4" fill="#151d38"><title>2025-12-05: 0</title></rect>
+  <rect x="151.0" y="322" width="16" height="16" rx="4" fill="#151d38"><title>2025-12-06: 0</title></rect>
+  <text x="172.0" y="359" font-family="Consolas,'SF Mono',Menlo,monospace" font-size="11" fill="#5b6785">Dec</text>
+  <rect x="172.0" y="196" width="16" height="16" rx="4" fill="#151d38"><title>2025-12-07: 0</title></rect>
+  <rect x="172.0" y="217" width="16" height="16" rx="4" fill="#151d38"><title>2025-12-08: 0</title></rect>
+  <rect x="172.0" y="238" width="16" height="16" rx="4" fill="#151d38"><title>2025-12-09: 0</title></rect>
+  <rect x="172.0" y="259" width="16" height="16" rx="4" fill="#151d38"><title>2025-12-10: 0</title></rect>
+  <rect x="172.0" y="280" width="16" height="16" rx="4" fill="#151d38"><title>2025-12-11: 0</title></rect>
+  <rect x="172.0" y="301" width="16" height="16" rx="4" fill="#151d38"><title>2025-12-12: 0</title></rect>
+  <rect x="172.0" y="322" width="16" height="16" rx="4" fill="#151d38"><title>2025-12-13: 0</title></rect>
+  <rect x="193.0" y="196" width="16" height="16" rx="4" fill="#151d38"><title>2025-12-14: 0</title></rect>
+  <rect x="193.0" y="217" width="16" height="16" rx="4" fill="#1e3a8a"><title>2025-12-15: 3</title></rect>
+  <rect x="193.0" y="238" width="16" height="16" rx="4" fill="#1e3a8a"><title>2025-12-16: 3</title></rect>
+  <rect x="193.0" y="259" width="16" height="16" rx="4" fill="#1e3a8a"><title>2025-12-17: 5</title></rect>
+  <rect x="193.0" y="280" width="16" height="16" rx="4" fill="#1e3a8a"><title>2025-12-18: 1</title></rect>
+  <rect x="193.0" y="301" width="16" height="16" rx="4" fill="#1e3a8a"><title>2025-12-19: 1</title></rect>
+  <rect x="193.0" y="322" width="16" height="16" rx="4" fill="#151d38"><title>2025-12-20: 0</title></rect>
+  <rect x="214.0" y="196" width="16" height="16" rx="4" fill="#151d38"><title>2025-12-21: 0</title></rect>
+  <rect x="214.0" y="217" width="16" height="16" rx="4" fill="#151d38"><title>2025-12-22: 0</title></rect>
+  <rect x="214.0" y="238" width="16" height="16" rx="4" fill="#151d38"><title>2025-12-23: 0</title></rect>
+  <rect x="214.0" y="259" width="16" height="16" rx="4" fill="#151d38"><title>2025-12-24: 0</title></rect>
+  <rect x="214.0" y="280" width="16" height="16" rx="4" fill="#151d38"><title>2025-12-25: 0</title></rect>
+  <rect x="214.0" y="301" width="16" height="16" rx="4" fill="#151d38"><title>2025-12-26: 0</title></rect>
+  <rect x="214.0" y="322" width="16" height="16" rx="4" fill="#1e3a8a"><title>2025-12-27: 2</title></rect>
+  <rect x="235.0" y="196" width="16" height="16" rx="4" fill="#151d38"><title>2025-12-28: 0</title></rect>
+  <rect x="235.0" y="217" width="16" height="16" rx="4" fill="#151d38"><title>2025-12-29: 0</title></rect>
+  <rect x="235.0" y="238" width="16" height="16" rx="4" fill="#151d38"><title>2025-12-30: 0</title></rect>
+  <rect x="235.0" y="259" width="16" height="16" rx="4" fill="#151d38"><title>2025-12-31: 0</title></rect>
+  <rect x="235.0" y="280" width="16" height="16" rx="4" fill="#151d38"><title>2026-01-01: 0</title></rect>
+  <rect x="235.0" y="301" width="16" height="16" rx="4" fill="#151d38"><title>2026-01-02: 0</title></rect>
+  <rect x="235.0" y="322" width="16" height="16" rx="4" fill="#151d38"><title>2026-01-03: 0</title></rect>
+  <text x="256.0" y="359" font-family="Consolas,'SF Mono',Menlo,monospace" font-size="11" fill="#5b6785">Jan</text>
+  <rect x="256.0" y="196" width="16" height="16" rx="4" fill="#151d38"><title>2026-01-04: 0</title></rect>
+  <rect x="256.0" y="217" width="16" height="16" rx="4" fill="#1e3a8a"><title>2026-01-05: 2</title></rect>
+  <rect x="256.0" y="238" width="16" height="16" rx="4" fill="#1e3a8a"><title>2026-01-06: 2</title></rect>
+  <rect x="256.0" y="259" width="16" height="16" rx="4" fill="#151d38"><title>2026-01-07: 0</title></rect>
+  <rect x="256.0" y="280" width="16" height="16" rx="4" fill="#151d38"><title>2026-01-08: 0</title></rect>
+  <rect x="256.0" y="301" width="16" height="16" rx="4" fill="#1e3a8a"><title>2026-01-09: 2</title></rect>
+  <rect x="256.0" y="322" width="16" height="16" rx="4" fill="#1e3a8a"><title>2026-01-10: 1</title></rect>
+  <rect x="277.0" y="196" width="16" height="16" rx="4" fill="#1e3a8a"><title>2026-01-11: 4</title></rect>
+  <rect x="277.0" y="217" width="16" height="16" rx="4" fill="#151d38"><title>2026-01-12: 0</title></rect>
+  <rect x="277.0" y="238" width="16" height="16" rx="4" fill="#151d38"><title>2026-01-13: 0</title></rect>
+  <rect x="277.0" y="259" width="16" height="16" rx="4" fill="#151d38"><title>2026-01-14: 0</title></rect>
+  <rect x="277.0" y="280" width="16" height="16" rx="4" fill="#151d38"><title>2026-01-15: 0</title></rect>
+  <rect x="277.0" y="301" width="16" height="16" rx="4" fill="#151d38"><title>2026-01-16: 0</title></rect>
+  <rect x="277.0" y="322" width="16" height="16" rx="4" fill="#1e3a8a"><title>2026-01-17: 1</title></rect>
+  <rect x="298.0" y="196" width="16" height="16" rx="4" fill="#151d38"><title>2026-01-18: 0</title></rect>
+  <rect x="298.0" y="217" width="16" height="16" rx="4" fill="#1e3a8a"><title>2026-01-19: 2</title></rect>
+  <rect x="298.0" y="238" width="16" height="16" rx="4" fill="#1e3a8a"><title>2026-01-20: 1</title></rect>
+  <rect x="298.0" y="259" width="16" height="16" rx="4" fill="#151d38"><title>2026-01-21: 0</title></rect>
+  <rect x="298.0" y="280" width="16" height="16" rx="4" fill="#151d38"><title>2026-01-22: 0</title></rect>
+  <rect x="298.0" y="301" width="16" height="16" rx="4" fill="#1e3a8a"><title>2026-01-23: 2</title></rect>
+  <rect x="298.0" y="322" width="16" height="16" rx="4" fill="#1e3a8a"><title>2026-01-24: 1</title></rect>
+  <rect x="319.0" y="196" width="16" height="16" rx="4" fill="#3b6cf6"><title>2026-01-25: 11</title></rect>
+  <rect x="319.0" y="217" width="16" height="16" rx="4" fill="#1e3a8a"><title>2026-01-26: 5</title></rect>
+  <rect x="319.0" y="238" width="16" height="16" rx="4" fill="#1e3a8a"><title>2026-01-27: 1</title></rect>
+  <rect x="319.0" y="259" width="16" height="16" rx="4" fill="#151d38"><title>2026-01-28: 0</title></rect>
+  <rect x="319.0" y="280" width="16" height="16" rx="4" fill="#151d38"><title>2026-01-29: 0</title></rect>
+  <rect x="319.0" y="301" width="16" height="16" rx="4" fill="#151d38"><title>2026-01-30: 0</title></rect>
+  <rect x="319.0" y="322" width="16" height="16" rx="4" fill="#1e3a8a"><title>2026-01-31: 4</title></rect>
+  <text x="340.0" y="359" font-family="Consolas,'SF Mono',Menlo,monospace" font-size="11" fill="#5b6785">Feb</text>
+  <rect x="340.0" y="196" width="16" height="16" rx="4" fill="#1e3a8a"><title>2026-02-01: 2</title></rect>
+  <rect x="340.0" y="217" width="16" height="16" rx="4" fill="#151d38"><title>2026-02-02: 0</title></rect>
+  <rect x="340.0" y="238" width="16" height="16" rx="4" fill="#1e3a8a"><title>2026-02-03: 1</title></rect>
+  <rect x="340.0" y="259" width="16" height="16" rx="4" fill="#151d38"><title>2026-02-04: 0</title></rect>
+  <rect x="340.0" y="280" width="16" height="16" rx="4" fill="#1e3a8a"><title>2026-02-05: 3</title></rect>
+  <rect x="340.0" y="301" width="16" height="16" rx="4" fill="#151d38"><title>2026-02-06: 0</title></rect>
+  <rect x="340.0" y="322" width="16" height="16" rx="4" fill="#151d38"><title>2026-02-07: 0</title></rect>
+  <rect x="361.0" y="196" width="16" height="16" rx="4" fill="#151d38"><title>2026-02-08: 0</title></rect>
+  <rect x="361.0" y="217" width="16" height="16" rx="4" fill="#151d38"><title>2026-02-09: 0</title></rect>
+  <rect x="361.0" y="238" width="16" height="16" rx="4" fill="#1e3a8a"><title>2026-02-10: 3</title></rect>
+  <rect x="361.0" y="259" width="16" height="16" rx="4" fill="#1e3a8a"><title>2026-02-11: 3</title></rect>
+  <rect x="361.0" y="280" width="16" height="16" rx="4" fill="#1e3a8a"><title>2026-02-12: 1</title></rect>
+  <rect x="361.0" y="301" width="16" height="16" rx="4" fill="#3b6cf6"><title>2026-02-13: 8</title></rect>
+  <rect x="361.0" y="322" width="16" height="16" rx="4" fill="#1e3a8a"><title>2026-02-14: 2</title></rect>
+  <rect x="382.0" y="196" width="16" height="16" rx="4" fill="#151d38"><title>2026-02-15: 0</title></rect>
+  <rect x="382.0" y="217" width="16" height="16" rx="4" fill="#1e3a8a"><title>2026-02-16: 1</title></rect>
+  <rect x="382.0" y="238" width="16" height="16" rx="4" fill="#1e3a8a"><title>2026-02-17: 1</title></rect>
+  <rect x="382.0" y="259" width="16" height="16" rx="4" fill="#1e3a8a"><title>2026-02-18: 2</title></rect>
+  <rect x="382.0" y="280" width="16" height="16" rx="4" fill="#151d38"><title>2026-02-19: 0</title></rect>
+  <rect x="382.0" y="301" width="16" height="16" rx="4" fill="#151d38"><title>2026-02-20: 0</title></rect>
+  <rect x="382.0" y="322" width="16" height="16" rx="4" fill="#151d38"><title>2026-02-21: 0</title></rect>
+  <rect x="403.0" y="196" width="16" height="16" rx="4" fill="#151d38"><title>2026-02-22: 0</title></rect>
+  <rect x="403.0" y="217" width="16" height="16" rx="4" fill="#151d38"><title>2026-02-23: 0</title></rect>
+  <rect x="403.0" y="238" width="16" height="16" rx="4" fill="#151d38"><title>2026-02-24: 0</title></rect>
+  <rect x="403.0" y="259" width="16" height="16" rx="4" fill="#151d38"><title>2026-02-25: 0</title></rect>
+  <rect x="403.0" y="280" width="16" height="16" rx="4" fill="#151d38"><title>2026-02-26: 0</title></rect>
+  <rect x="403.0" y="301" width="16" height="16" rx="4" fill="#151d38"><title>2026-02-27: 0</title></rect>
+  <rect x="403.0" y="322" width="16" height="16" rx="4" fill="#151d38"><title>2026-02-28: 0</title></rect>
+  <text x="424.0" y="359" font-family="Consolas,'SF Mono',Menlo,monospace" font-size="11" fill="#5b6785">Mar</text>
+  <rect x="424.0" y="196" width="16" height="16" rx="4" fill="#151d38"><title>2026-03-01: 0</title></rect>
+  <rect x="424.0" y="217" width="16" height="16" rx="4" fill="#151d38"><title>2026-03-02: 0</title></rect>
+  <rect x="424.0" y="238" width="16" height="16" rx="4" fill="#1e3a8a"><title>2026-03-03: 1</title></rect>
+  <rect x="424.0" y="259" width="16" height="16" rx="4" fill="#1e3a8a"><title>2026-03-04: 5</title></rect>
+  <rect x="424.0" y="280" width="16" height="16" rx="4" fill="#3b6cf6"><title>2026-03-05: 8</title></rect>
+  <rect x="424.0" y="301" width="16" height="16" rx="4" fill="#3b6cf6"><title>2026-03-06: 8</title></rect>
+  <rect x="424.0" y="322" width="16" height="16" rx="4" fill="#1e3a8a"><title>2026-03-07: 3</title></rect>
+  <rect x="445.0" y="196" width="16" height="16" rx="4" fill="#c4b5fd"><title>2026-03-08: 52</title></rect>
+  <rect x="445.0" y="217" width="16" height="16" rx="4" fill="#1e3a8a"><title>2026-03-09: 5</title></rect>
+  <rect x="445.0" y="238" width="16" height="16" rx="4" fill="#151d38"><title>2026-03-10: 0</title></rect>
+  <rect x="445.0" y="259" width="16" height="16" rx="4" fill="#1e3a8a"><title>2026-03-11: 1</title></rect>
+  <rect x="445.0" y="280" width="16" height="16" rx="4" fill="#151d38"><title>2026-03-12: 0</title></rect>
+  <rect x="445.0" y="301" width="16" height="16" rx="4" fill="#3b6cf6"><title>2026-03-13: 10</title></rect>
+  <rect x="445.0" y="322" width="16" height="16" rx="4" fill="#3b6cf6"><title>2026-03-14: 10</title></rect>
+  <rect x="466.0" y="196" width="16" height="16" rx="4" fill="#70a5fd"><title>2026-03-15: 13</title></rect>
+  <rect x="466.0" y="217" width="16" height="16" rx="4" fill="#151d38"><title>2026-03-16: 0</title></rect>
+  <rect x="466.0" y="238" width="16" height="16" rx="4" fill="#151d38"><title>2026-03-17: 0</title></rect>
+  <rect x="466.0" y="259" width="16" height="16" rx="4" fill="#151d38"><title>2026-03-18: 0</title></rect>
+  <rect x="466.0" y="280" width="16" height="16" rx="4" fill="#1e3a8a"><title>2026-03-19: 1</title></rect>
+  <rect x="466.0" y="301" width="16" height="16" rx="4" fill="#151d38"><title>2026-03-20: 0</title></rect>
+  <rect x="466.0" y="322" width="16" height="16" rx="4" fill="#3b6cf6"><title>2026-03-21: 7</title></rect>
+  <rect x="487.0" y="196" width="16" height="16" rx="4" fill="#1e3a8a"><title>2026-03-22: 2</title></rect>
+  <rect x="487.0" y="217" width="16" height="16" rx="4" fill="#3b6cf6"><title>2026-03-23: 10</title></rect>
+  <rect x="487.0" y="238" width="16" height="16" rx="4" fill="#3b6cf6"><title>2026-03-24: 7</title></rect>
+  <rect x="487.0" y="259" width="16" height="16" rx="4" fill="#c4b5fd"><title>2026-03-25: 42</title></rect>
+  <rect x="487.0" y="280" width="16" height="16" rx="4" fill="#c4b5fd"><title>2026-03-26: 21</title></rect>
+  <rect x="487.0" y="301" width="16" height="16" rx="4" fill="#c4b5fd"><title>2026-03-27: 18</title></rect>
+  <rect x="487.0" y="322" width="16" height="16" rx="4" fill="#c4b5fd"><title>2026-03-28: 21</title></rect>
+  <rect x="508.0" y="196" width="16" height="16" rx="4" fill="#3b6cf6"><title>2026-03-29: 6</title></rect>
+  <rect x="508.0" y="217" width="16" height="16" rx="4" fill="#1e3a8a"><title>2026-03-30: 1</title></rect>
+  <rect x="508.0" y="238" width="16" height="16" rx="4" fill="#151d38"><title>2026-03-31: 0</title></rect>
+  <rect x="508.0" y="259" width="16" height="16" rx="4" fill="#151d38"><title>2026-04-01: 0</title></rect>
+  <rect x="508.0" y="280" width="16" height="16" rx="4" fill="#3b6cf6"><title>2026-04-02: 8</title></rect>
+  <rect x="508.0" y="301" width="16" height="16" rx="4" fill="#1e3a8a"><title>2026-04-03: 4</title></rect>
+  <rect x="508.0" y="322" width="16" height="16" rx="4" fill="#151d38"><title>2026-04-04: 0</title></rect>
+  <text x="529.0" y="359" font-family="Consolas,'SF Mono',Menlo,monospace" font-size="11" fill="#5b6785">Apr</text>
+  <rect x="529.0" y="196" width="16" height="16" rx="4" fill="#151d38"><title>2026-04-05: 0</title></rect>
+  <rect x="529.0" y="217" width="16" height="16" rx="4" fill="#1e3a8a"><title>2026-04-06: 5</title></rect>
+  <rect x="529.0" y="238" width="16" height="16" rx="4" fill="#1e3a8a"><title>2026-04-07: 2</title></rect>
+  <rect x="529.0" y="259" width="16" height="16" rx="4" fill="#70a5fd"><title>2026-04-08: 12</title></rect>
+  <rect x="529.0" y="280" width="16" height="16" rx="4" fill="#70a5fd"><title>2026-04-09: 12</title></rect>
+  <rect x="529.0" y="301" width="16" height="16" rx="4" fill="#151d38"><title>2026-04-10: 0</title></rect>
+  <rect x="529.0" y="322" width="16" height="16" rx="4" fill="#151d38"><title>2026-04-11: 0</title></rect>
+  <rect x="550.0" y="196" width="16" height="16" rx="4" fill="#151d38"><title>2026-04-12: 0</title></rect>
+  <rect x="550.0" y="217" width="16" height="16" rx="4" fill="#151d38"><title>2026-04-13: 0</title></rect>
+  <rect x="550.0" y="238" width="16" height="16" rx="4" fill="#151d38"><title>2026-04-14: 0</title></rect>
+  <rect x="550.0" y="259" width="16" height="16" rx="4" fill="#151d38"><title>2026-04-15: 0</title></rect>
+  <rect x="550.0" y="280" width="16" height="16" rx="4" fill="#151d38"><title>2026-04-16: 0</title></rect>
+  <rect x="550.0" y="301" width="16" height="16" rx="4" fill="#151d38"><title>2026-04-17: 0</title></rect>
+  <rect x="550.0" y="322" width="16" height="16" rx="4" fill="#151d38"><title>2026-04-18: 0</title></rect>
+  <rect x="571.0" y="196" width="16" height="16" rx="4" fill="#151d38"><title>2026-04-19: 0</title></rect>
+  <rect x="571.0" y="217" width="16" height="16" rx="4" fill="#151d38"><title>2026-04-20: 0</title></rect>
+  <rect x="571.0" y="238" width="16" height="16" rx="4" fill="#1e3a8a"><title>2026-04-21: 1</title></rect>
+  <rect x="571.0" y="259" width="16" height="16" rx="4" fill="#151d38"><title>2026-04-22: 0</title></rect>
+  <rect x="571.0" y="280" width="16" height="16" rx="4" fill="#151d38"><title>2026-04-23: 0</title></rect>
+  <rect x="571.0" y="301" width="16" height="16" rx="4" fill="#151d38"><title>2026-04-24: 0</title></rect>
+  <rect x="571.0" y="322" width="16" height="16" rx="4" fill="#151d38"><title>2026-04-25: 0</title></rect>
+  <rect x="592.0" y="196" width="16" height="16" rx="4" fill="#151d38"><title>2026-04-26: 0</title></rect>
+  <rect x="592.0" y="217" width="16" height="16" rx="4" fill="#151d38"><title>2026-04-27: 0</title></rect>
+  <rect x="592.0" y="238" width="16" height="16" rx="4" fill="#151d38"><title>2026-04-28: 0</title></rect>
+  <rect x="592.0" y="259" width="16" height="16" rx="4" fill="#151d38"><title>2026-04-29: 0</title></rect>
+  <rect x="592.0" y="280" width="16" height="16" rx="4" fill="#151d38"><title>2026-04-30: 0</title></rect>
+  <rect x="592.0" y="301" width="16" height="16" rx="4" fill="#151d38"><title>2026-05-01: 0</title></rect>
+  <rect x="592.0" y="322" width="16" height="16" rx="4" fill="#151d38"><title>2026-05-02: 0</title></rect>
+  <text x="613.0" y="359" font-family="Consolas,'SF Mono',Menlo,monospace" font-size="11" fill="#5b6785">May</text>
+  <rect x="613.0" y="196" width="16" height="16" rx="4" fill="#151d38"><title>2026-05-03: 0</title></rect>
+  <rect x="613.0" y="217" width="16" height="16" rx="4" fill="#151d38"><title>2026-05-04: 0</title></rect>
+  <rect x="613.0" y="238" width="16" height="16" rx="4" fill="#151d38"><title>2026-05-05: 0</title></rect>
+  <rect x="613.0" y="259" width="16" height="16" rx="4" fill="#151d38"><title>2026-05-06: 0</title></rect>
+  <rect x="613.0" y="280" width="16" height="16" rx="4" fill="#151d38"><title>2026-05-07: 0</title></rect>
+  <rect x="613.0" y="301" width="16" height="16" rx="4" fill="#151d38"><title>2026-05-08: 0</title></rect>
+  <rect x="613.0" y="322" width="16" height="16" rx="4" fill="#151d38"><title>2026-05-09: 0</title></rect>
+  <rect x="634.0" y="196" width="16" height="16" rx="4" fill="#151d38"><title>2026-05-10: 0</title></rect>
+  <rect x="634.0" y="217" width="16" height="16" rx="4" fill="#151d38"><title>2026-05-11: 0</title></rect>
+  <rect x="634.0" y="238" width="16" height="16" rx="4" fill="#151d38"><title>2026-05-12: 0</title></rect>
+  <rect x="634.0" y="259" width="16" height="16" rx="4" fill="#151d38"><title>2026-05-13: 0</title></rect>
+  <rect x="634.0" y="280" width="16" height="16" rx="4" fill="#151d38"><title>2026-05-14: 0</title></rect>
+  <rect x="634.0" y="301" width="16" height="16" rx="4" fill="#151d38"><title>2026-05-15: 0</title></rect>
+  <rect x="634.0" y="322" width="16" height="16" rx="4" fill="#151d38"><title>2026-05-16: 0</title></rect>
+  <rect x="655.0" y="196" width="16" height="16" rx="4" fill="#151d38"><title>2026-05-17: 0</title></rect>
+  <rect x="655.0" y="217" width="16" height="16" rx="4" fill="#151d38"><title>2026-05-18: 0</title></rect>
+  <rect x="655.0" y="238" width="16" height="16" rx="4" fill="#151d38"><title>2026-05-19: 0</title></rect>
+  <rect x="655.0" y="259" width="16" height="16" rx="4" fill="#151d38"><title>2026-05-20: 0</title></rect>
+  <rect x="655.0" y="280" width="16" height="16" rx="4" fill="#151d38"><title>2026-05-21: 0</title></rect>
+  <rect x="655.0" y="301" width="16" height="16" rx="4" fill="#151d38"><title>2026-05-22: 0</title></rect>
+  <rect x="655.0" y="322" width="16" height="16" rx="4" fill="#151d38"><title>2026-05-23: 0</title></rect>
+  <rect x="676.0" y="196" width="16" height="16" rx="4" fill="#151d38"><title>2026-05-24: 0</title></rect>
+  <rect x="676.0" y="217" width="16" height="16" rx="4" fill="#151d38"><title>2026-05-25: 0</title></rect>
+  <rect x="676.0" y="238" width="16" height="16" rx="4" fill="#151d38"><title>2026-05-26: 0</title></rect>
+  <rect x="676.0" y="259" width="16" height="16" rx="4" fill="#1e3a8a"><title>2026-05-27: 1</title></rect>
+  <rect x="676.0" y="280" width="16" height="16" rx="4" fill="#151d38"><title>2026-05-28: 0</title></rect>
+  <rect x="676.0" y="301" width="16" height="16" rx="4" fill="#1e3a8a"><title>2026-05-29: 1</title></rect>
+  <rect x="676.0" y="322" width="16" height="16" rx="4" fill="#151d38"><title>2026-05-30: 0</title></rect>
+  <rect x="697.0" y="196" width="16" height="16" rx="4" fill="#151d38"><title>2026-05-31: 0</title></rect>
+  <rect x="697.0" y="217" width="16" height="16" rx="4" fill="#3b6cf6"><title>2026-06-01: 7</title></rect>
+  <rect x="697.0" y="238" width="16" height="16" rx="4" fill="#151d38"><title>2026-06-02: 0</title></rect>
+  <rect x="697.0" y="259" width="16" height="16" rx="4" fill="#1e3a8a"><title>2026-06-03: 1</title></rect>
+  <rect x="697.0" y="280" width="16" height="16" rx="4" fill="#1e3a8a"><title>2026-06-04: 1</title></rect>
+  <rect x="697.0" y="301" width="16" height="16" rx="4" fill="#151d38"><title>2026-06-05: 0</title></rect>
+  <rect x="697.0" y="322" width="16" height="16" rx="4" fill="#1e3a8a"><title>2026-06-06: 1</title></rect>
+  <text x="718.0" y="359" font-family="Consolas,'SF Mono',Menlo,monospace" font-size="11" fill="#5b6785">Jun</text>
+  <rect x="718.0" y="196" width="16" height="16" rx="4" fill="#151d38"><title>2026-06-07: 0</title></rect>
+  <rect x="718.0" y="217" width="16" height="16" rx="4" fill="#151d38"><title>2026-06-08: 0</title></rect>
+  <rect x="718.0" y="238" width="16" height="16" rx="4" fill="#1e3a8a"><title>2026-06-09: 5</title></rect>
+  <rect x="718.0" y="259" width="16" height="16" rx="4" fill="#1e3a8a"><title>2026-06-10: 4</title></rect>
+  <rect x="718.0" y="280" width="16" height="16" rx="4" fill="#151d38"><title>2026-06-11: 0</title></rect>
+  <rect x="718.0" y="301" width="16" height="16" rx="4" fill="#151d38"><title>2026-06-12: 0</title></rect>
+  <rect x="718.0" y="322" width="16" height="16" rx="4" fill="#151d38"><title>2026-06-13: 0</title></rect>
+  <rect x="739.0" y="196" width="16" height="16" rx="4" fill="#151d38"><title>2026-06-14: 0</title></rect>
+  <rect x="739.0" y="217" width="16" height="16" rx="4" fill="#1e3a8a"><title>2026-06-15: 4</title></rect>
+  <rect x="739.0" y="238" width="16" height="16" rx="4" fill="#151d38"><title>2026-06-16: 0</title></rect>
+  <rect x="739.0" y="259" width="16" height="16" rx="4" fill="#151d38"><title>2026-06-17: 0</title></rect>
+  <rect x="739.0" y="280" width="16" height="16" rx="4" fill="#151d38"><title>2026-06-18: 0</title></rect>
+  <rect x="739.0" y="301" width="16" height="16" rx="4" fill="#151d38"><title>2026-06-19: 0</title></rect>
+  <rect x="739.0" y="322" width="16" height="16" rx="4" fill="#151d38"><title>2026-06-20: 0</title></rect>
+  <rect x="760.0" y="196" width="16" height="16" rx="4" fill="#1e3a8a"><title>2026-06-21: 1</title></rect>
+  <rect x="760.0" y="217" width="16" height="16" rx="4" fill="#1e3a8a"><title>2026-06-22: 2</title></rect>
+  <rect x="760.0" y="238" width="16" height="16" rx="4" fill="#151d38"><title>2026-06-23: 0</title></rect>
+  <rect x="760.0" y="259" width="16" height="16" rx="4" fill="#151d38"><title>2026-06-24: 0</title></rect>
+  <rect x="760.0" y="280" width="16" height="16" rx="4" fill="#151d38"><title>2026-06-25: 0</title></rect>
+  <rect x="760.0" y="301" width="16" height="16" rx="4" fill="#151d38"><title>2026-06-26: 0</title></rect>
+  <rect x="760.0" y="322" width="16" height="16" rx="4" fill="#151d38"><title>2026-06-27: 0</title></rect>
+  <rect x="781.0" y="196" width="16" height="16" rx="4" fill="#151d38"><title>2026-06-28: 0</title></rect>
+  <rect x="781.0" y="217" width="16" height="16" rx="4" fill="#151d38"><title>2026-06-29: 0</title></rect>
+  <rect x="781.0" y="238" width="16" height="16" rx="4" fill="#151d38"><title>2026-06-30: 0</title></rect>
+  <rect x="781.0" y="259" width="16" height="16" rx="4" fill="#151d38"><title>2026-07-01: 0</title></rect>
+  <rect x="781.0" y="280" width="16" height="16" rx="4" fill="#151d38"><title>2026-07-02: 0</title></rect>
+  <rect x="781.0" y="301" width="16" height="16" rx="4" fill="#151d38"><title>2026-07-03: 0</title></rect>
+  <rect x="781.0" y="322" width="16" height="16" rx="4" fill="#151d38"><title>2026-07-04: 0</title></rect>
+  <text x="802.0" y="359" font-family="Consolas,'SF Mono',Menlo,monospace" font-size="11" fill="#5b6785">Jul</text>
+  <rect x="802.0" y="196" width="16" height="16" rx="4" fill="#1e3a8a"><title>2026-07-05: 2</title></rect>
+  <rect x="802.0" y="217" width="16" height="16" rx="4" fill="#151d38"><title>2026-07-06: 0</title></rect>
+  <rect x="802.0" y="238" width="16" height="16" rx="4" fill="#151d38"><title>2026-07-07: 0</title></rect>
+  <rect x="802.0" y="259" width="16" height="16" rx="4" fill="#151d38"><title>2026-07-08: 0</title></rect>
+  <rect x="802.0" y="280" width="16" height="16" rx="4" fill="#151d38"><title>2026-07-09: 0</title></rect>
+  <rect x="802.0" y="301" width="16" height="16" rx="4" fill="#151d38"><title>2026-07-10: 0</title></rect>
+  <rect x="802.0" y="322" width="16" height="16" rx="4" fill="#151d38"><title>2026-07-11: 0</title></rect>
+  <rect x="823.0" y="196" width="16" height="16" rx="4" fill="#151d38"><title>2026-07-12: 0</title></rect>
+  <rect x="823.0" y="217" width="16" height="16" rx="4" fill="#1e3a8a"><title>2026-07-13: 1</title></rect>
+  <rect x="823.0" y="238" width="16" height="16" rx="4" fill="#151d38"><title>2026-07-14: 0</title></rect>
+  <rect x="823.0" y="259" width="16" height="16" rx="4" fill="#151d38"><title>2026-07-15: 0</title></rect>
+  <rect x="823.0" y="280" width="16" height="16" rx="4" fill="#151d38"><title>2026-07-16: 0</title></rect>
+  <rect x="823.0" y="301" width="16" height="16" rx="4" fill="#151d38"><title>2026-07-17: 0</title></rect>
+  <rect x="823.0" y="322" width="16" height="16" rx="4" fill="#151d38"><title>2026-07-18: 0</title></rect>
+  <rect x="844.0" y="196" width="16" height="16" rx="4" fill="#151d38"><title>2026-07-19: 0</title></rect>
+  <rect x="844.0" y="217" width="16" height="16" rx="4" fill="#1e3a8a"><title>2026-07-20: 2</title></rect>
+  <rect x="844.0" y="238" width="16" height="16" rx="4" fill="#1e3a8a"><title>2026-07-21: 5</title></rect>
+  <rect x="844.0" y="259" width="16" height="16" rx="4" fill="#151d38"><title>2026-07-22: 0</title></rect>
+  <rect x="844.0" y="280" width="16" height="16" rx="4" fill="#151d38"><title>2026-07-23: 0</title></rect>
+  <rect x="844.0" y="301" width="16" height="16" rx="4" fill="#c4b5fd"><title>2026-07-24: 34</title></rect>
+  <rect x="844.0" y="322" width="16" height="16" rx="4" fill="#3b6cf6"><title>2026-07-25: 8</title></rect>
+  <rect x="865.0" y="196" width="16" height="16" rx="4" fill="#3b6cf6"><title>2026-07-26: 8</title></rect>
+  <rect x="865.0" y="217" width="16" height="16" rx="4" fill="#151d38"><title>2026-07-27: 0</title></rect>
+  <rect x="865.0" y="238" width="16" height="16" rx="4" fill="#151d38"><title>2026-07-28: 0</title></rect>
+  <rect x="865.0" y="259" width="16" height="16" rx="4" fill="#1e3a8a"><title>2026-07-29: 2</title></rect>
+  <rect x="865.0" y="280" width="16" height="16" rx="4" fill="#151d38"><title>2026-07-30: 0</title></rect>
+  <rect x="865.0" y="301" width="16" height="16" rx="4" fill="#1e3a8a"><title>2026-07-31: 1</title></rect>
+  <rect x="865.0" y="322" width="16" height="16" rx="4" fill="#151d38"><title>2026-08-01: 0</title></rect>
+  <text x="886.0" y="359" font-family="Consolas,'SF Mono',Menlo,monospace" font-size="11" fill="#5b6785">Aug</text>
+  <rect x="886.0" y="196" width="16" height="16" rx="4" fill="#151d38"><title>2026-08-02: 0</title></rect>
+  <rect x="886.0" y="217" width="16" height="16" rx="4" fill="#151d38"><title>2026-08-03: 0</title></rect>
+  <rect x="886.0" y="238" width="16" height="16" rx="4" fill="#1e3a8a"><title>2026-08-04: 1</title></rect>
+  <rect x="886.0" y="259" width="16" height="16" rx="4" fill="#151d38"><title>2026-08-05: 0</title></rect>
+  <rect x="886.0" y="280" width="16" height="16" rx="4" fill="#151d38"><title>2026-08-06: 0</title></rect>
+  <rect x="886.0" y="301" width="16" height="16" rx="4" fill="#151d38"><title>2026-08-07: 0</title></rect>
+  <rect x="886.0" y="322" width="16" height="16" rx="4" fill="#151d38"><title>2026-08-08: 0</title></rect>
+  <rect x="907.0" y="196" width="16" height="16" rx="4" fill="#151d38"><title>2026-08-09: 0</title></rect>
+  <rect x="907.0" y="217" width="16" height="16" rx="4" fill="#151d38"><title>2026-08-10: 0</title></rect>
+  <rect x="907.0" y="238" width="16" height="16" rx="4" fill="#151d38"><title>2026-08-11: 0</title></rect>
+  <rect x="907.0" y="259" width="16" height="16" rx="4" fill="#151d38"><title>2026-08-12: 0</title></rect>
+  <rect x="907.0" y="280" width="16" height="16" rx="4" fill="#151d38"><title>2026-08-13: 0</title></rect>
+  <rect x="907.0" y="301" width="16" height="16" rx="4" fill="#151d38"><title>2026-08-14: 0</title></rect>
+  <rect x="907.0" y="322" width="16" height="16" rx="4" fill="#1e3a8a"><title>2026-08-15: 2</title></rect>
+  <rect x="928.0" y="196" width="16" height="16" rx="4" fill="#1e3a8a"><title>2026-08-16: 1</title></rect>
+  <rect x="928.0" y="217" width="16" height="16" rx="4" fill="#3b6cf6"><title>2026-08-17: 6</title></rect>
+  <rect x="928.0" y="238" width="16" height="16" rx="4" fill="#151d38"><title>2026-08-18: 0</title></rect>
+  <rect x="928.0" y="259" width="16" height="16" rx="4" fill="#151d38"><title>2026-08-19: 0</title></rect>
+  <rect x="928.0" y="280" width="16" height="16" rx="4" fill="#1e3a8a"><title>2026-08-20: 2</title></rect>
+  <rect x="928.0" y="301" width="16" height="16" rx="4" fill="#151d38"><title>2026-08-21: 0</title></rect>
+  <rect x="928.0" y="322" width="16" height="16" rx="4" fill="#1e3a8a"><title>2026-08-22: 4</title></rect>
+  <rect x="949.0" y="196" width="16" height="16" rx="4" fill="#3b6cf6"><title>2026-08-23: 8</title></rect>
+  <rect x="949.0" y="217" width="16" height="16" rx="4" fill="#1e3a8a"><title>2026-08-24: 4</title></rect>
+  <rect x="949.0" y="238" width="16" height="16" rx="4" fill="#1e3a8a"><title>2026-08-25: 1</title></rect>
+  <rect x="949.0" y="259" width="16" height="16" rx="4" fill="#3b6cf6"><title>2026-08-26: 8</title></rect>
+  <rect x="949.0" y="280" width="16" height="16" rx="4" fill="#c4b5fd"><title>2026-08-27: 20</title></rect>
+  <rect x="949.0" y="301" width="16" height="16" rx="4" fill="#70a5fd"><title>2026-08-28: 13</title></rect>
+  <rect x="949.0" y="322" width="16" height="16" rx="4" fill="#c4b5fd"><title>2026-08-29: 18</title></rect>
+  <rect x="970.0" y="196" width="16" height="16" rx="4" fill="#70a5fd"><title>2026-08-30: 14</title></rect>
+  <rect x="970.0" y="217" width="16" height="16" rx="4" fill="#70a5fd"><title>2026-08-31: 12</title></rect>
+  <rect x="970.0" y="238" width="16" height="16" rx="4" fill="#1e3a8a"><title>2026-09-01: 5</title></rect>
+  <rect x="970.0" y="259" width="16" height="16" rx="4" fill="#1e3a8a"><title>2026-09-02: 5</title></rect>
+  <rect x="970.0" y="280" width="16" height="16" rx="4" fill="#1e3a8a"><title>2026-09-03: 3</title></rect>
+  <rect x="970.0" y="301" width="16" height="16" rx="4" fill="#3b6cf6"><title>2026-09-04: 10</title></rect>
+  <rect x="970.0" y="322" width="16" height="16" rx="4" fill="#1e3a8a"><title>2026-09-05: 5</title></rect>
+  <text x="991.0" y="359" font-family="Consolas,'SF Mono',Menlo,monospace" font-size="11" fill="#5b6785">Sep</text>
+  <rect x="991.0" y="196" width="16" height="16" rx="4" fill="#1e3a8a"><title>2026-09-06: 5</title></rect>
+  <rect x="991.0" y="217" width="16" height="16" rx="4" fill="#c4b5fd"><title>2026-09-07: 20</title></rect>
+  <rect x="991.0" y="238" width="16" height="16" rx="4" fill="#3b6cf6"><title>2026-09-08: 11</title></rect>
+  <rect x="991.0" y="259" width="16" height="16" rx="4" fill="#70a5fd"><title>2026-09-09: 16</title></rect>
+  <rect x="991.0" y="280" width="16" height="16" rx="4" fill="#1e3a8a"><title>2026-09-10: 1</title></rect>
+  <rect x="991.0" y="301" width="16" height="16" rx="4" fill="#c4b5fd"><title>2026-09-11: 25</title></rect>
+  <rect x="991.0" y="322" width="16" height="16" rx="4" fill="#1e3a8a"><title>2026-09-12: 5</title></rect>
+  <rect x="1012.0" y="196" width="16" height="16" rx="4" fill="#3b6cf6"><title>2026-09-13: 9</title></rect>
+  <rect x="1012.0" y="217" width="16" height="16" rx="4" fill="#1e3a8a"><title>2026-09-14: 3</title></rect>
+  <rect x="1012.0" y="238" width="16" height="16" rx="4" fill="#1e3a8a"><title>2026-09-15: 2</title></rect>
+  <rect x="1012.0" y="259" width="16" height="16" rx="4" fill="#c4b5fd"><title>2026-09-16: 30</title></rect>
+  <rect x="1012.0" y="280" width="16" height="16" rx="4" fill="#1e3a8a"><title>2026-09-17: 3</title></rect>
+  <rect x="1012.0" y="301" width="16" height="16" rx="4" fill="#c4b5fd"><title>2026-09-18: 40</title></rect>
+  <rect x="1012.0" y="322" width="16" height="16" rx="4" fill="#1e3a8a"><title>2026-09-19: 2</title></rect>
+  <rect x="1033.0" y="196" width="16" height="16" rx="4" fill="#c4b5fd"><title>2026-09-20: 24</title></rect>
+  <rect x="1033.0" y="217" width="16" height="16" rx="4" fill="#c4b5fd"><title>2026-09-21: 30</title></rect>
+  <rect x="1033.0" y="238" width="16" height="16" rx="4" fill="#1e3a8a"><title>2026-09-22: 5</title></rect>
+  <rect x="1033.0" y="259" width="16" height="16" rx="4" fill="#c4b5fd"><title>2026-09-23: 37</title></rect>
+  <rect x="1033.0" y="280" width="16" height="16" rx="4" fill="#1e3a8a"><title>2026-09-24: 1</title></rect>
+  <rect x="1033.0" y="301" width="16" height="16" rx="4" fill="#3b6cf6"><title>2026-09-25: 11</title></rect>
+  <rect x="1033.0" y="322" width="16" height="16" rx="4" fill="#1e3a8a"><title>2026-09-26: 2</title></rect>
+  <rect x="1054.0" y="196" width="16" height="16" rx="4" fill="#1e3a8a"><title>2026-09-27: 3</title></rect>
+  <rect x="1054.0" y="217" width="16" height="16" rx="4" fill="#1e3a8a"><title>2026-09-28: 1</title></rect>
+  <rect x="1054.0" y="238" width="16" height="16" rx="4" fill="#1e3a8a"><title>2026-09-29: 2</title></rect>
+  <rect x="1054.0" y="259" width="16" height="16" rx="4" fill="#1e3a8a"><title>2026-09-30: 3</title></rect>
+  <rect x="1054.0" y="280" width="16" height="16" rx="4" fill="#3b6cf6"><title>2026-10-01: 9</title></rect>
+  <rect x="1054.0" y="301" width="16" height="16" rx="4" fill="#1e3a8a"><title>2026-10-02: 3</title></rect>
+  <rect x="1054.0" y="322" width="16" height="16" rx="4" fill="#3b6cf6"><title>2026-10-03: 9</title></rect>
+  <text x="1075.0" y="359" font-family="Consolas,'SF Mono',Menlo,monospace" font-size="11" fill="#5b6785">Oct</text>
+  <rect x="1075.0" y="196" width="16" height="16" rx="4" fill="#1e3a8a"><title>2026-10-04: 3</title></rect>
+  <rect x="1075.0" y="217" width="16" height="16" rx="4" fill="#1e3a8a"><title>2026-10-05: 1</title></rect>
+  <rect x="1075.0" y="238" width="16" height="16" rx="4" fill="#1e3a8a"><title>2026-10-06: 2</title></rect>
+  <rect x="1075.0" y="259" width="16" height="16" rx="4" fill="#1e3a8a"><title>2026-10-07: 4</title></rect>
+  <rect x="1075.0" y="280" width="16" height="16" rx="4" fill="#1e3a8a"><title>2026-10-08: 3</title></rect>
+  <rect x="1075.0" y="301" width="16" height="16" rx="4" fill="#1e3a8a"><title>2026-10-09: 2</title></rect>
+  <rect x="1075.0" y="322" width="16" height="16" rx="4" fill="#1e3a8a"><title>2026-10-10: 1</title></rect>
+  <rect x="1096.0" y="196" width="16" height="16" rx="4" fill="#1e3a8a"><title>2026-10-11: 2</title></rect>
+  <rect x="1096.0" y="217" width="16" height="16" rx="4" fill="#3b6cf6"><title>2026-10-12: 10</title></rect>
+  <rect x="1096.0" y="238" width="16" height="16" rx="4" fill="#1e3a8a"><title>2026-10-13: 3</title></rect>
+  <rect x="1096.0" y="259" width="16" height="16" rx="4" fill="#3b6cf6"><title>2026-10-14: 7</title></rect>
+  <rect x="1096.0" y="280" width="16" height="16" rx="4" fill="#70a5fd"><title>2026-10-15: 12</title></rect>
+  <rect x="1096.0" y="301" width="16" height="16" rx="4" fill="#3b6cf6"><title>2026-10-16: 11</title></rect>
+  <rect x="1096.0" y="322" width="16" height="16" rx="4" fill="#c4b5fd"><title>2026-10-17: 18</title></rect>
+  <rect x="1117.0" y="196" width="16" height="16" rx="4" fill="#3b6cf6"><title>2026-10-18: 8</title></rect>
+  <rect x="1117.0" y="217" width="16" height="16" rx="4" fill="#70a5fd"><title>2026-10-19: 16</title></rect>
+  <rect x="1117.0" y="238" width="16" height="16" rx="4" fill="#3b6cf6"><title>2026-10-20: 10</title></rect>
+  <rect x="1117.0" y="259" width="16" height="16" rx="4" fill="#3b6cf6"><title>2026-10-21: 9</title></rect>
+  <rect x="1117.0" y="280" width="16" height="16" rx="4" fill="#1e3a8a"><title>2026-10-22: 2</title></rect>
+  <rect x="1117.0" y="301" width="16" height="16" rx="4" fill="#c4b5fd"><title>2026-10-23: 32</title></rect>
+  <rect x="1117.0" y="322" width="16" height="16" rx="4" fill="#1e3a8a"><title>2026-10-24: 1</title></rect>
+  <rect x="1138.0" y="196" width="16" height="16" rx="4" fill="#c4b5fd"><title>2026-10-25: 17</title></rect>
+  <rect x="1138.0" y="217" width="16" height="16" rx="4" fill="#c4b5fd"><title>2026-10-26: 27</title></rect>
+  <text x="1004" y="176" text-anchor="end" font-family="'Segoe UI',Inter,-apple-system,Helvetica,Arial,sans-serif" font-size="12" fill="#5b6785">Less</text>
+  <rect x="1012" y="165" width="13" height="13" rx="3" fill="#151d38"/>
+  <rect x="1030" y="165" width="13" height="13" rx="3" fill="#1e3a8a"/>
+  <rect x="1048" y="165" width="13" height="13" rx="3" fill="#3b6cf6"/>
+  <rect x="1066" y="165" width="13" height="13" rx="3" fill="#70a5fd"/>
+  <rect x="1084" y="165" width="13" height="13" rx="3" fill="#c4b5fd"/>
+  <text x="1106" y="176" font-family="'Segoe UI',Inter,-apple-system,Helvetica,Arial,sans-serif" font-size="12" fill="#5b6785">More</text>
+  <text x="1172" y="402" text-anchor="end" font-family="Consolas,'SF Mono',Menlo,monospace" font-size="11" fill="#3d4766">updated 2026-10-26</text>
+</svg>

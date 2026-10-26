@@ -100,10 +100,7 @@ I'm a **CS & AI Engineering student** from Chennai who'd rather ship than talk a
 
 <div align="center">
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=goprocker&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0b1020&title_color=70a5fd&icon_color=a78bfa&text_color=c3cde6&rank_icon=github" height="170" alt="GitHub stats" />
-<img src="https://streak-stats.demolab.com/?user=goprocker&hide_border=true&background=0b1020&ring=70a5fd&fire=a78bfa&currStreakLabel=70a5fd&sideLabels=c3cde6&currStreakNum=e6edf3&sideNums=e6edf3&dates=8b98b8&stroke=1f2a48" height="170" alt="GitHub streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=goprocker&bg_color=0b1020&color=8b98b8&line=70a5fd&point=a78bfa&area=true&area_color=70a5fd&hide_border=true&radius=12" width="100%" alt="Contribution graph" />
+<img src="./assets/readme/activity.svg" width="100%" alt="GitHub activity: contributions, streaks and contribution calendar" />
 
 </div>
 
@@ -111,10 +108,15 @@ I'm a **CS & AI Engineering student** from Chennai who'd rather ship than talk a
 
 <div align="center">
 
-Got a product to build, a hackathon team to fill, or an idea worth arguing about?<br/>
-**[gopinath2638@gmail.com](mailto:gopinath2638@gmail.com)** · **[loopfound.in](https://loopfound.in)**
+<a href="mailto:gopinath2638@gmail.com"><img src="./assets/readme/contact-cta.svg" width="100%" alt="Have something worth building? My inbox is open." /></a>
 
-<br/>
+<a href="mailto:gopinath2638@gmail.com"><img src="./assets/readme/contact-email.svg" width="19%" alt="Email" /></a>
+<a href="https://linkedin.com/in/gopinath2638"><img src="./assets/readme/contact-linkedin.svg" width="19%" alt="LinkedIn" /></a>
+<a href="https://x.com/gopinath2368"><img src="./assets/readme/contact-x.svg" width="19%" alt="X" /></a>
+<a href="https://www.instagram.com/goprocker_photography_/?hl=en"><img src="./assets/readme/contact-instagram.svg" width="19%" alt="Instagram" /></a>
+<a href="https://loopfound.in"><img src="./assets/readme/contact-web.svg" width="19%" alt="LoopFound" /></a>
+
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=goprocker&color=0b1020&style=flat-square&label=profile%20views" alt="Profile views" />
 

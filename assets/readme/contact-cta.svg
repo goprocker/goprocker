@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="200" viewBox="0 0 1200 200" role="img" aria-label="Have a product to build or a hackathon team to fill? Let's talk.">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#101a3d"/><stop offset="1" stop-color="#1a1040"/></linearGradient>
+    <linearGradient id="t" x1="0" x2="1"><stop offset="0" stop-color="#e6edf3"/><stop offset=".6" stop-color="#a5c4ff"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#fff" stroke-opacity=".04"/></pattern>
+    <style>.dot{animation:p 2s ease-in-out infinite}@keyframes p{50%{opacity:.3}}</style>
+  </defs>
+  <rect x=".5" y=".5" width="1199" height="199" rx="18" fill="url(#g)" stroke="#ffffff" stroke-opacity=".1"/>
+  <rect x=".5" y=".5" width="1199" height="199" rx="18" fill="url(#grid)"/>
+  <circle class="dot" cx="482.0" cy="52" r="5" fill="#34d399"/>
+  <text x="608.0" y="57" text-anchor="middle" font-family="Consolas,'SF Mono',Menlo,monospace" font-size="14" fill="#a7f3d0">available for new projects</text>
+  <text x="600.0" y="112" text-anchor="middle" font-family="'Segoe UI',Inter,-apple-system,Helvetica,Arial,sans-serif" font-size="40" font-weight="800" fill="url(#t)" letter-spacing="-1">Have something worth building?</text>
+  <text x="600.0" y="150" text-anchor="middle" font-family="'Segoe UI',Inter,-apple-system,Helvetica,Arial,sans-serif" font-size="18" fill="#97a3c2">Products, freelance work, hackathon teams, or a good argument about AI. My inbox is open.</text>
+</svg>
