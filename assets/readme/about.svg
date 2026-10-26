@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-label="About Gopinath: CS and AI engineering student in Chennai, co-founder of LoopFound, building web platforms and multi-agent AI tools.">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d1430"/><stop offset="1" stop-color="#080c1a"/></linearGradient>
+    <radialGradient id="o" cx="0" cy="1" r="1"><stop offset="0" stop-color="#8b5cf6" stop-opacity=".2"/><stop offset=".6" stop-color="#8b5cf6" stop-opacity="0"/></radialGradient>
+    <linearGradient id="hl" x1="0" x2="1"><stop offset="0" stop-color="#a5c4ff"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+    <style>.in{animation:in .6s ease-out backwards}@keyframes in{from{opacity:0;transform:translateY(8px)}}</style>
+  </defs>
+  <rect x=".5" y=".5" width="1199" height="399" rx="18" fill="url(#g)" stroke="#ffffff" stroke-opacity=".09"/>
+  <rect x=".5" y=".5" width="1199" height="399" rx="18" fill="url(#o)"/>
+  <g font-family="'Segoe UI',Inter,-apple-system,Helvetica,Arial,sans-serif">
+    <text x="40" y="62" font-family="Consolas,'SF Mono',Menlo,monospace" font-size="14" fill="#70a5fd">const gopinath = () =&gt; ship();</text>
+    <text x="40" y="112" font-size="34" font-weight="800" fill="#e6edf3" letter-spacing="-.6">I'd rather <tspan fill="url(#hl)">ship</tspan> than talk</text>
+    <text x="40" y="152" font-size="34" font-weight="800" fill="#e6edf3" letter-spacing="-.6">about shipping.</text>
+    <text x="40" y="196" font-size="16.5" fill="#97a3c2">CS &amp; AI Engineering student who co-founded LoopFound, a web</text>
+    <text x="40" y="221" font-size="16.5" fill="#97a3c2">agency building production sites for real businesses. Outside</text>
+    <text x="40" y="246" font-size="16.5" fill="#97a3c2">client work I build multi-agent AI tools at hackathons and in OSS.</text>
+    <g><rect x="40" y="284" width="132" height="76" rx="12" fill="#ffffff" fill-opacity=".035" stroke="#ffffff" stroke-opacity=".08"/>
+    <rect x="54" y="284" width="24" height="3" rx="1.5" fill="#70a5fd"/>
+    <text x="54" y="314" font-size="11.5" font-weight="600" fill="#6b7896" letter-spacing=".6">BASED IN</text>
+    <text x="54" y="340" font-size="15" font-weight="700" fill="#e6edf3">Chennai, India</text></g>
+    <g><rect x="182" y="284" width="132" height="76" rx="12" fill="#ffffff" fill-opacity=".035" stroke="#ffffff" stroke-opacity=".08"/>
+    <rect x="196" y="284" width="24" height="3" rx="1.5" fill="#a78bfa"/>
+    <text x="196" y="314" font-size="11.5" font-weight="600" fill="#6b7896" letter-spacing=".6">STUDYING</text>
+    <text x="196" y="340" font-size="15" font-weight="700" fill="#e6edf3">CSE · AI</text></g>
+    <g><rect x="324" y="284" width="132" height="76" rx="12" fill="#ffffff" fill-opacity=".035" stroke="#ffffff" stroke-opacity=".08"/>
+    <rect x="338" y="284" width="24" height="3" rx="1.5" fill="#34d399"/>
+    <text x="338" y="314" font-size="11.5" font-weight="600" fill="#6b7896" letter-spacing=".6">BUILDING</text>
+    <text x="338" y="340" font-size="15" font-weight="700" fill="#e6edf3">LoopFound</text></g>
+    <g><rect x="466" y="284" width="132" height="76" rx="12" fill="#ffffff" fill-opacity=".035" stroke="#ffffff" stroke-opacity=".08"/>
+    <rect x="480" y="284" width="24" height="3" rx="1.5" fill="#f472b6"/>
+    <text x="480" y="314" font-size="11.5" font-weight="600" fill="#6b7896" letter-spacing=".6">OFF-SCREEN</text>
+    <text x="480" y="340" font-size="15" font-weight="700" fill="#e6edf3">Photography</text></g>
+    <rect x="636" y="40" width="1" height="320" fill="#ffffff" fill-opacity=".08"/>
+    <g>
+    <rect x="676" y="56" width="484" height="140" rx="14" fill="#ffffff" fill-opacity=".03" stroke="#34d399" stroke-opacity=".25"/>
+    <circle cx="700" cy="86" r="5" fill="#34d399"/>
+    <text x="714" y="91" font-family="Consolas,'SF Mono',Menlo,monospace" font-size="13" font-weight="700" fill="#34d399" letter-spacing="1.5">BUILDING</text>
+    <text x="700" y="124" font-size="15.5" fill="#c3cde6"><tspan fill="#34d399">›</tspan>  Client platforms at LoopFound</text>
+    <text x="700" y="150" font-size="15.5" fill="#c3cde6"><tspan fill="#34d399">›</tspan>  P2PSkill — skill exchange</text>
+    <text x="700" y="176" font-size="15.5" fill="#c3cde6"><tspan fill="#34d399">›</tspan>  AI agent orchestration</text>
+    </g>
+    <g>
+    <rect x="676" y="220" width="484" height="140" rx="14" fill="#ffffff" fill-opacity=".03" stroke="#a78bfa" stroke-opacity=".25"/>
+    <circle cx="700" cy="250" r="5" fill="#a78bfa"/>
+    <text x="714" y="255" font-family="Consolas,'SF Mono',Menlo,monospace" font-size="13" font-weight="700" fill="#a78bfa" letter-spacing="1.5">LEARNING</text>
+    <text x="700" y="288" font-size="15.5" fill="#c3cde6"><tspan fill="#a78bfa">›</tspan>  LLM agents · computer vision</text>
+    <text x="700" y="314" font-size="15.5" fill="#c3cde6"><tspan fill="#a78bfa">›</tspan>  Scalable backends &amp; system design</text>
+    <text x="700" y="340" font-size="15.5" fill="#c3cde6"><tspan fill="#a78bfa">›</tspan>  DSA in Java and C++</text>
+    </g>
+  </g>
+</svg>

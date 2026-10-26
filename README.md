@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/readme/hero.svg" width="100%" alt="Gopinath R — Full-Stack Developer, AI Engineer, Co-Founder at LoopFound" />
+<img src="./assets/readme/hero-portrait.svg" width="100%" alt="Gopinath R — Full-Stack Developer, AI Engineer, Co-Founder at LoopFound" />
 
 <br/><br/>
 
@@ -16,28 +16,7 @@
 
 <img src="./assets/readme/h-about.svg" width="100%" alt="About" />
 
-I'm a **CS & AI Engineering student** from Chennai who'd rather ship than talk about shipping. I co-founded **[LoopFound](https://loopfound.in)**, a web agency building production sites for real businesses. I also build AI tools, mostly multi-agent systems, at hackathons and in open source.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🔨 Building**
-- Client platforms at **LoopFound**
-- **P2PSkill**, a peer-to-peer skill exchange
-- AI agent tooling and orchestration
-
-</td>
-<td width="50%" valign="top">
-
-**🧠 Learning**
-- LLM agents and computer vision
-- Scalable backends and system design
-- DSA in Java and C++
-
-</td>
-</tr>
-</table>
+<img src="./assets/readme/about.svg" width="100%" alt="I'm a CS &amp; AI Engineering student from Chennai and co-founder of LoopFound. Building: LoopFound client platforms, P2PSkill, AI agent orchestration. Learning: LLM agents, computer vision, system design, DSA." />
 
 <img src="./assets/readme/h-work.svg" width="100%" alt="Featured Work" />
 
