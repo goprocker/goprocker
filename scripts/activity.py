@@ -6,7 +6,7 @@ import json
 import os
 import sys
 import urllib.request
-from datetime import date
+from datetime import date, timedelta
 
 USER = sys.argv[1] if len(sys.argv) > 1 else "goprocker"
 OUT = os.path.join(os.path.dirname(__file__), "..", "assets", "readme", "activity.svg")
@@ -53,7 +53,8 @@ def fetch():
 
 
 def streaks(days):
-    today = date.today().isoformat()
+    # GitHub can take hours to count a day's contributions, so empty today/yesterday don't break the streak yet
+    grace = {date.today().isoformat(), (date.today() - timedelta(days=1)).isoformat()}
     longest = run = 0
     for d in days:
         run = run + 1 if d["contributionCount"] else 0
@@ -62,7 +63,7 @@ def streaks(days):
     for d in reversed(days):
         if d["contributionCount"]:
             current += 1
-        elif d["date"] != today:  # today without contributions doesn't break the streak yet
+        elif d["date"] not in grace:
             break
     return current, longest
 
