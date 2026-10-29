@@ -39,7 +39,6 @@
 <a href="https://github.com/snycoai"><img src="./assets/readme/org-syncoai.svg" width="24%" alt="Synco AI" /></a>
 <a href="https://github.com/dscsist"><img src="./assets/readme/org-dscsist.svg" width="24%" alt="GDSC SIST" /></a>
 <br/>
-<a href="https://github.com/microsoftclubsist"><img src="./assets/readme/org-microsoftclub.svg" width="24%" alt="Microsoft Club" /></a>
 <a href="https://github.com/Redrox-Industries"><img src="./assets/readme/org-redrox.svg" width="24%" alt="Redrox Industries" /></a>
 <a href="https://github.com/Rare-Atom"><img src="./assets/readme/org-rareatom.svg" width="24%" alt="Rare Atom" /></a>
 <a href="https://gssoc.girlscript.tech"><img src="./assets/readme/org-gssoc.svg" width="24%" alt="GSSoC 2026" /></a>
