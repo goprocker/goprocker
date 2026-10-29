@@ -6,7 +6,7 @@ import json
 import os
 import sys
 import urllib.request
-from datetime import date, timedelta
+from datetime import date
 
 USER = sys.argv[1] if len(sys.argv) > 1 else "goprocker"
 OUT = os.path.join(os.path.dirname(__file__), "..", "assets", "readme", "activity.svg")
@@ -53,8 +53,9 @@ def fetch():
 
 
 def streaks(days):
-    # GitHub can take hours to count a day's contributions, so empty today/yesterday don't break the streak yet
-    grace = {date.today().isoformat(), (date.today() - timedelta(days=1)).isoformat()}
+    # GitHub can take hours to count a day's contributions, so empty last two calendar days don't break the streak yet.
+    # Use the calendar's own dates: it follows the profile timezone, which can be a day ahead of the UTC runner.
+    grace = {d["date"] for d in days[-2:]}
     longest = run = 0
     for d in days:
         run = run + 1 if d["contributionCount"] else 0
