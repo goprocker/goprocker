@@ -24,12 +24,12 @@
   <a href="https://github.com/goprocker/sathyabamaexpress"><img src="./assets/readme/card-livora.svg" width="49%" alt="Livora" /></a>
   <a href="https://github.com/goprocker/ResponseSync"><img src="./assets/readme/card-responsync.svg" width="49%" alt="ResponSync" /></a>
   <a href="https://github.com/goprocker/Digital-Horizon-Conclave-2026"><img src="./assets/readme/card-dhc2026.svg" width="49%" alt="Digital Horizon Conclave 2026" /></a>
-  <a href="https://github.com/LoopFound/loopfoundwebsite"><img src="./assets/readme/card-loopfound-site.svg" width="49%" alt="LoopFound Website" /></a>
+  <a href="https://github.com/goprocker/Islet"><img src="./assets/readme/card-islet.svg" width="49%" alt="Islet" /></a>
   <a href="https://github.com/goprocker/orivo"><img src="./assets/readme/card-orvio.svg" width="49%" alt="ORVIO" /></a>
   <a href="https://github.com/goprocker/UNBD"><img src="./assets/readme/card-unbd.svg" width="49%" alt="UNBD" /></a>
 </p>
 
-<p align="center"><sub>Live: <a href="https://sathyabamaexpress-five.vercel.app">Livora</a> · <a href="https://responsesync.ai.studio/">ResponSync</a> · <a href="https://digital-horizon-conclave-2026.vercel.app">Digital Horizon Conclave</a> · <a href="https://loopfoundwebsite.vercel.app">LoopFound</a></sub></p>
+<p align="center"><sub>Live: <a href="https://sathyabamaexpress-five.vercel.app">Livora</a> · <a href="https://responsesync.ai.studio/">ResponSync</a> · <a href="https://digital-horizon-conclave-2026.vercel.app">Digital Horizon Conclave</a></sub></p>
 
 <img src="./assets/readme/h-orgs.svg" width="100%" alt="Organizations" />
 
