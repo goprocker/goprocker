@@ -42,7 +42,6 @@
 <a href="https://github.com/HackWithIndia-Sathyabama"><img src="./assets/readme/org-hackwithindia.svg" width="24%" alt="HackWithIndia Sathyabama" /></a>
 <a href="https://github.com/Redrox-Industries"><img src="./assets/readme/org-redrox.svg" width="24%" alt="Redrox Industries" /></a>
 <a href="https://github.com/Rare-Atom"><img src="./assets/readme/org-rareatom.svg" width="24%" alt="Rare Atom" /></a>
-<br/>
 <a href="https://gssoc.girlscript.tech"><img src="./assets/readme/org-gssoc.svg" width="24%" alt="GSSoC 2026" /></a>
 </p>
 
